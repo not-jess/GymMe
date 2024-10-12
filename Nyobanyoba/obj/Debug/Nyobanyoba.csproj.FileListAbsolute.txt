@@ -1,0 +1,556 @@
+C:\Users\pf242\Documents\KULIAHAN\Semester 4\Pattern Software Design\Latihan Soal\Nyobanyoba\Nyobanyoba\bin\Nyobanyoba.dll.config
+C:\Users\pf242\Documents\KULIAHAN\Semester 4\Pattern Software Design\Latihan Soal\Nyobanyoba\Nyobanyoba\bin\Nyobanyoba.dll
+C:\Users\pf242\Documents\KULIAHAN\Semester 4\Pattern Software Design\Latihan Soal\Nyobanyoba\Nyobanyoba\bin\Nyobanyoba.pdb
+C:\Users\pf242\Documents\KULIAHAN\Semester 4\Pattern Software Design\Latihan Soal\Nyobanyoba\Nyobanyoba\bin\roslyn\csc.exe
+C:\Users\pf242\Documents\KULIAHAN\Semester 4\Pattern Software Design\Latihan Soal\Nyobanyoba\Nyobanyoba\bin\roslyn\csc.exe.config
+C:\Users\pf242\Documents\KULIAHAN\Semester 4\Pattern Software Design\Latihan Soal\Nyobanyoba\Nyobanyoba\bin\roslyn\csc.rsp
+C:\Users\pf242\Documents\KULIAHAN\Semester 4\Pattern Software Design\Latihan Soal\Nyobanyoba\Nyobanyoba\bin\roslyn\csi.exe
+C:\Users\pf242\Documents\KULIAHAN\Semester 4\Pattern Software Design\Latihan Soal\Nyobanyoba\Nyobanyoba\bin\roslyn\csi.exe.config
+C:\Users\pf242\Documents\KULIAHAN\Semester 4\Pattern Software Design\Latihan Soal\Nyobanyoba\Nyobanyoba\bin\roslyn\csi.rsp
+C:\Users\pf242\Documents\KULIAHAN\Semester 4\Pattern Software Design\Latihan Soal\Nyobanyoba\Nyobanyoba\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\pf242\Documents\KULIAHAN\Semester 4\Pattern Software Design\Latihan Soal\Nyobanyoba\Nyobanyoba\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\pf242\Documents\KULIAHAN\Semester 4\Pattern Software Design\Latihan Soal\Nyobanyoba\Nyobanyoba\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\pf242\Documents\KULIAHAN\Semester 4\Pattern Software Design\Latihan Soal\Nyobanyoba\Nyobanyoba\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\pf242\Documents\KULIAHAN\Semester 4\Pattern Software Design\Latihan Soal\Nyobanyoba\Nyobanyoba\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\pf242\Documents\KULIAHAN\Semester 4\Pattern Software Design\Latihan Soal\Nyobanyoba\Nyobanyoba\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\pf242\Documents\KULIAHAN\Semester 4\Pattern Software Design\Latihan Soal\Nyobanyoba\Nyobanyoba\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\pf242\Documents\KULIAHAN\Semester 4\Pattern Software Design\Latihan Soal\Nyobanyoba\Nyobanyoba\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\pf242\Documents\KULIAHAN\Semester 4\Pattern Software Design\Latihan Soal\Nyobanyoba\Nyobanyoba\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\pf242\Documents\KULIAHAN\Semester 4\Pattern Software Design\Latihan Soal\Nyobanyoba\Nyobanyoba\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\pf242\Documents\KULIAHAN\Semester 4\Pattern Software Design\Latihan Soal\Nyobanyoba\Nyobanyoba\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\pf242\Documents\KULIAHAN\Semester 4\Pattern Software Design\Latihan Soal\Nyobanyoba\Nyobanyoba\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\pf242\Documents\KULIAHAN\Semester 4\Pattern Software Design\Latihan Soal\Nyobanyoba\Nyobanyoba\bin\roslyn\System.AppContext.dll
+C:\Users\pf242\Documents\KULIAHAN\Semester 4\Pattern Software Design\Latihan Soal\Nyobanyoba\Nyobanyoba\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\pf242\Documents\KULIAHAN\Semester 4\Pattern Software Design\Latihan Soal\Nyobanyoba\Nyobanyoba\bin\roslyn\System.Console.dll
+C:\Users\pf242\Documents\KULIAHAN\Semester 4\Pattern Software Design\Latihan Soal\Nyobanyoba\Nyobanyoba\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\pf242\Documents\KULIAHAN\Semester 4\Pattern Software Design\Latihan Soal\Nyobanyoba\Nyobanyoba\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\pf242\Documents\KULIAHAN\Semester 4\Pattern Software Design\Latihan Soal\Nyobanyoba\Nyobanyoba\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\pf242\Documents\KULIAHAN\Semester 4\Pattern Software Design\Latihan Soal\Nyobanyoba\Nyobanyoba\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\pf242\Documents\KULIAHAN\Semester 4\Pattern Software Design\Latihan Soal\Nyobanyoba\Nyobanyoba\bin\roslyn\System.IO.Compression.dll
+C:\Users\pf242\Documents\KULIAHAN\Semester 4\Pattern Software Design\Latihan Soal\Nyobanyoba\Nyobanyoba\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\pf242\Documents\KULIAHAN\Semester 4\Pattern Software Design\Latihan Soal\Nyobanyoba\Nyobanyoba\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\pf242\Documents\KULIAHAN\Semester 4\Pattern Software Design\Latihan Soal\Nyobanyoba\Nyobanyoba\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\pf242\Documents\KULIAHAN\Semester 4\Pattern Software Design\Latihan Soal\Nyobanyoba\Nyobanyoba\bin\roslyn\System.Net.Http.dll
+C:\Users\pf242\Documents\KULIAHAN\Semester 4\Pattern Software Design\Latihan Soal\Nyobanyoba\Nyobanyoba\bin\roslyn\System.Net.Sockets.dll
+C:\Users\pf242\Documents\KULIAHAN\Semester 4\Pattern Software Design\Latihan Soal\Nyobanyoba\Nyobanyoba\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\pf242\Documents\KULIAHAN\Semester 4\Pattern Software Design\Latihan Soal\Nyobanyoba\Nyobanyoba\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\pf242\Documents\KULIAHAN\Semester 4\Pattern Software Design\Latihan Soal\Nyobanyoba\Nyobanyoba\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\pf242\Documents\KULIAHAN\Semester 4\Pattern Software Design\Latihan Soal\Nyobanyoba\Nyobanyoba\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\pf242\Documents\KULIAHAN\Semester 4\Pattern Software Design\Latihan Soal\Nyobanyoba\Nyobanyoba\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\pf242\Documents\KULIAHAN\Semester 4\Pattern Software Design\Latihan Soal\Nyobanyoba\Nyobanyoba\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\pf242\Documents\KULIAHAN\Semester 4\Pattern Software Design\Latihan Soal\Nyobanyoba\Nyobanyoba\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\pf242\Documents\KULIAHAN\Semester 4\Pattern Software Design\Latihan Soal\Nyobanyoba\Nyobanyoba\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\pf242\Documents\KULIAHAN\Semester 4\Pattern Software Design\Latihan Soal\Nyobanyoba\Nyobanyoba\bin\roslyn\System.ValueTuple.dll
+C:\Users\pf242\Documents\KULIAHAN\Semester 4\Pattern Software Design\Latihan Soal\Nyobanyoba\Nyobanyoba\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\pf242\Documents\KULIAHAN\Semester 4\Pattern Software Design\Latihan Soal\Nyobanyoba\Nyobanyoba\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\pf242\Documents\KULIAHAN\Semester 4\Pattern Software Design\Latihan Soal\Nyobanyoba\Nyobanyoba\bin\roslyn\System.Xml.XPath.dll
+C:\Users\pf242\Documents\KULIAHAN\Semester 4\Pattern Software Design\Latihan Soal\Nyobanyoba\Nyobanyoba\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\pf242\Documents\KULIAHAN\Semester 4\Pattern Software Design\Latihan Soal\Nyobanyoba\Nyobanyoba\bin\roslyn\vbc.exe
+C:\Users\pf242\Documents\KULIAHAN\Semester 4\Pattern Software Design\Latihan Soal\Nyobanyoba\Nyobanyoba\bin\roslyn\vbc.exe.config
+C:\Users\pf242\Documents\KULIAHAN\Semester 4\Pattern Software Design\Latihan Soal\Nyobanyoba\Nyobanyoba\bin\roslyn\vbc.rsp
+C:\Users\pf242\Documents\KULIAHAN\Semester 4\Pattern Software Design\Latihan Soal\Nyobanyoba\Nyobanyoba\bin\roslyn\VBCSCompiler.exe
+C:\Users\pf242\Documents\KULIAHAN\Semester 4\Pattern Software Design\Latihan Soal\Nyobanyoba\Nyobanyoba\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\pf242\Documents\KULIAHAN\Semester 4\Pattern Software Design\Latihan Soal\Nyobanyoba\Nyobanyoba\bin\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\pf242\Documents\KULIAHAN\Semester 4\Pattern Software Design\Latihan Soal\Nyobanyoba\Nyobanyoba\bin\CrystalDecisions.ReportSource.dll
+C:\Users\pf242\Documents\KULIAHAN\Semester 4\Pattern Software Design\Latihan Soal\Nyobanyoba\Nyobanyoba\bin\CrystalDecisions.Shared.dll
+C:\Users\pf242\Documents\KULIAHAN\Semester 4\Pattern Software Design\Latihan Soal\Nyobanyoba\Nyobanyoba\bin\EntityFramework.dll
+C:\Users\pf242\Documents\KULIAHAN\Semester 4\Pattern Software Design\Latihan Soal\Nyobanyoba\Nyobanyoba\bin\EntityFramework.SqlServer.dll
+C:\Users\pf242\Documents\KULIAHAN\Semester 4\Pattern Software Design\Latihan Soal\Nyobanyoba\Nyobanyoba\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\pf242\Documents\KULIAHAN\Semester 4\Pattern Software Design\Latihan Soal\Nyobanyoba\Nyobanyoba\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\pf242\Documents\KULIAHAN\Semester 4\Pattern Software Design\Latihan Soal\Nyobanyoba\Nyobanyoba\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\pf242\Documents\KULIAHAN\Semester 4\Pattern Software Design\Latihan Soal\Nyobanyoba\Nyobanyoba\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\pf242\Documents\KULIAHAN\Semester 4\Pattern Software Design\Latihan Soal\Nyobanyoba\Nyobanyoba\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\pf242\Documents\KULIAHAN\Semester 4\Pattern Software Design\Latihan Soal\Nyobanyoba\Nyobanyoba\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\pf242\Documents\KULIAHAN\Semester 4\Pattern Software Design\Latihan Soal\Nyobanyoba\Nyobanyoba\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\pf242\Documents\KULIAHAN\Semester 4\Pattern Software Design\Latihan Soal\Nyobanyoba\Nyobanyoba\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\pf242\Documents\KULIAHAN\Semester 4\Pattern Software Design\Latihan Soal\Nyobanyoba\Nyobanyoba\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\pf242\Documents\KULIAHAN\Semester 4\Pattern Software Design\Latihan Soal\Nyobanyoba\Nyobanyoba\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\pf242\Documents\KULIAHAN\Semester 4\Pattern Software Design\Latihan Soal\Nyobanyoba\Nyobanyoba\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\pf242\Documents\KULIAHAN\Semester 4\Pattern Software Design\Latihan Soal\Nyobanyoba\Nyobanyoba\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\pf242\Documents\KULIAHAN\Semester 4\Pattern Software Design\Latihan Soal\Nyobanyoba\Nyobanyoba\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\pf242\Documents\KULIAHAN\Semester 4\Pattern Software Design\Latihan Soal\Nyobanyoba\Nyobanyoba\bin\stdole.dll
+C:\Users\pf242\Documents\KULIAHAN\Semester 4\Pattern Software Design\Latihan Soal\Nyobanyoba\Nyobanyoba\bin\EntityFramework.xml
+C:\Users\pf242\Documents\KULIAHAN\Semester 4\Pattern Software Design\Latihan Soal\Nyobanyoba\Nyobanyoba\bin\EntityFramework.SqlServer.xml
+C:\Users\pf242\Documents\KULIAHAN\Semester 4\Pattern Software Design\Latihan Soal\Nyobanyoba\Nyobanyoba\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\pf242\Documents\KULIAHAN\Semester 4\Pattern Software Design\Latihan Soal\Nyobanyoba\Nyobanyoba\obj\Debug\Nyobanyoba.csproj.AssemblyReference.cache
+C:\Users\pf242\Documents\KULIAHAN\Semester 4\Pattern Software Design\Latihan Soal\Nyobanyoba\Nyobanyoba\obj\Debug\Nyobanyoba.csproj.CoreCompileInputs.cache
+C:\Users\pf242\Documents\KULIAHAN\Semester 4\Pattern Software Design\Latihan Soal\Nyobanyoba\Nyobanyoba\obj\Debug\Nyobanyoba.csproj.Up2Date
+C:\Users\pf242\Documents\KULIAHAN\Semester 4\Pattern Software Design\Latihan Soal\Nyobanyoba\Nyobanyoba\obj\Debug\Nyobanyoba.dll
+C:\Users\pf242\Documents\KULIAHAN\Semester 4\Pattern Software Design\Latihan Soal\Nyobanyoba\Nyobanyoba\obj\Debug\Nyobanyoba.pdb
+C:\Mata Kuliah SMT 4\LAB PSD DELO FINAL\Nyobanyoba\Nyobanyoba\bin\Nyobanyoba.dll.config
+C:\Mata Kuliah SMT 4\LAB PSD DELO FINAL\Nyobanyoba\Nyobanyoba\bin\Nyobanyoba.dll
+C:\Mata Kuliah SMT 4\LAB PSD DELO FINAL\Nyobanyoba\Nyobanyoba\bin\Nyobanyoba.pdb
+C:\Mata Kuliah SMT 4\LAB PSD DELO FINAL\Nyobanyoba\Nyobanyoba\bin\roslyn\csc.exe
+C:\Mata Kuliah SMT 4\LAB PSD DELO FINAL\Nyobanyoba\Nyobanyoba\bin\roslyn\csc.exe.config
+C:\Mata Kuliah SMT 4\LAB PSD DELO FINAL\Nyobanyoba\Nyobanyoba\bin\roslyn\csc.rsp
+C:\Mata Kuliah SMT 4\LAB PSD DELO FINAL\Nyobanyoba\Nyobanyoba\bin\roslyn\csi.exe
+C:\Mata Kuliah SMT 4\LAB PSD DELO FINAL\Nyobanyoba\Nyobanyoba\bin\roslyn\csi.exe.config
+C:\Mata Kuliah SMT 4\LAB PSD DELO FINAL\Nyobanyoba\Nyobanyoba\bin\roslyn\csi.rsp
+C:\Mata Kuliah SMT 4\LAB PSD DELO FINAL\Nyobanyoba\Nyobanyoba\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Mata Kuliah SMT 4\LAB PSD DELO FINAL\Nyobanyoba\Nyobanyoba\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Mata Kuliah SMT 4\LAB PSD DELO FINAL\Nyobanyoba\Nyobanyoba\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Mata Kuliah SMT 4\LAB PSD DELO FINAL\Nyobanyoba\Nyobanyoba\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Mata Kuliah SMT 4\LAB PSD DELO FINAL\Nyobanyoba\Nyobanyoba\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Mata Kuliah SMT 4\LAB PSD DELO FINAL\Nyobanyoba\Nyobanyoba\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Mata Kuliah SMT 4\LAB PSD DELO FINAL\Nyobanyoba\Nyobanyoba\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Mata Kuliah SMT 4\LAB PSD DELO FINAL\Nyobanyoba\Nyobanyoba\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Mata Kuliah SMT 4\LAB PSD DELO FINAL\Nyobanyoba\Nyobanyoba\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Mata Kuliah SMT 4\LAB PSD DELO FINAL\Nyobanyoba\Nyobanyoba\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Mata Kuliah SMT 4\LAB PSD DELO FINAL\Nyobanyoba\Nyobanyoba\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Mata Kuliah SMT 4\LAB PSD DELO FINAL\Nyobanyoba\Nyobanyoba\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Mata Kuliah SMT 4\LAB PSD DELO FINAL\Nyobanyoba\Nyobanyoba\bin\roslyn\System.AppContext.dll
+C:\Mata Kuliah SMT 4\LAB PSD DELO FINAL\Nyobanyoba\Nyobanyoba\bin\roslyn\System.Collections.Immutable.dll
+C:\Mata Kuliah SMT 4\LAB PSD DELO FINAL\Nyobanyoba\Nyobanyoba\bin\roslyn\System.Console.dll
+C:\Mata Kuliah SMT 4\LAB PSD DELO FINAL\Nyobanyoba\Nyobanyoba\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Mata Kuliah SMT 4\LAB PSD DELO FINAL\Nyobanyoba\Nyobanyoba\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Mata Kuliah SMT 4\LAB PSD DELO FINAL\Nyobanyoba\Nyobanyoba\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Mata Kuliah SMT 4\LAB PSD DELO FINAL\Nyobanyoba\Nyobanyoba\bin\roslyn\System.Globalization.Calendars.dll
+C:\Mata Kuliah SMT 4\LAB PSD DELO FINAL\Nyobanyoba\Nyobanyoba\bin\roslyn\System.IO.Compression.dll
+C:\Mata Kuliah SMT 4\LAB PSD DELO FINAL\Nyobanyoba\Nyobanyoba\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Mata Kuliah SMT 4\LAB PSD DELO FINAL\Nyobanyoba\Nyobanyoba\bin\roslyn\System.IO.FileSystem.dll
+C:\Mata Kuliah SMT 4\LAB PSD DELO FINAL\Nyobanyoba\Nyobanyoba\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Mata Kuliah SMT 4\LAB PSD DELO FINAL\Nyobanyoba\Nyobanyoba\bin\roslyn\System.Net.Http.dll
+C:\Mata Kuliah SMT 4\LAB PSD DELO FINAL\Nyobanyoba\Nyobanyoba\bin\roslyn\System.Net.Sockets.dll
+C:\Mata Kuliah SMT 4\LAB PSD DELO FINAL\Nyobanyoba\Nyobanyoba\bin\roslyn\System.Reflection.Metadata.dll
+C:\Mata Kuliah SMT 4\LAB PSD DELO FINAL\Nyobanyoba\Nyobanyoba\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Mata Kuliah SMT 4\LAB PSD DELO FINAL\Nyobanyoba\Nyobanyoba\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Mata Kuliah SMT 4\LAB PSD DELO FINAL\Nyobanyoba\Nyobanyoba\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Mata Kuliah SMT 4\LAB PSD DELO FINAL\Nyobanyoba\Nyobanyoba\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Mata Kuliah SMT 4\LAB PSD DELO FINAL\Nyobanyoba\Nyobanyoba\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Mata Kuliah SMT 4\LAB PSD DELO FINAL\Nyobanyoba\Nyobanyoba\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Mata Kuliah SMT 4\LAB PSD DELO FINAL\Nyobanyoba\Nyobanyoba\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Mata Kuliah SMT 4\LAB PSD DELO FINAL\Nyobanyoba\Nyobanyoba\bin\roslyn\System.ValueTuple.dll
+C:\Mata Kuliah SMT 4\LAB PSD DELO FINAL\Nyobanyoba\Nyobanyoba\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Mata Kuliah SMT 4\LAB PSD DELO FINAL\Nyobanyoba\Nyobanyoba\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Mata Kuliah SMT 4\LAB PSD DELO FINAL\Nyobanyoba\Nyobanyoba\bin\roslyn\System.Xml.XPath.dll
+C:\Mata Kuliah SMT 4\LAB PSD DELO FINAL\Nyobanyoba\Nyobanyoba\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Mata Kuliah SMT 4\LAB PSD DELO FINAL\Nyobanyoba\Nyobanyoba\bin\roslyn\vbc.exe
+C:\Mata Kuliah SMT 4\LAB PSD DELO FINAL\Nyobanyoba\Nyobanyoba\bin\roslyn\vbc.exe.config
+C:\Mata Kuliah SMT 4\LAB PSD DELO FINAL\Nyobanyoba\Nyobanyoba\bin\roslyn\vbc.rsp
+C:\Mata Kuliah SMT 4\LAB PSD DELO FINAL\Nyobanyoba\Nyobanyoba\bin\roslyn\VBCSCompiler.exe
+C:\Mata Kuliah SMT 4\LAB PSD DELO FINAL\Nyobanyoba\Nyobanyoba\bin\roslyn\VBCSCompiler.exe.config
+C:\Mata Kuliah SMT 4\LAB PSD DELO FINAL\Nyobanyoba\Nyobanyoba\bin\EntityFramework.dll
+C:\Mata Kuliah SMT 4\LAB PSD DELO FINAL\Nyobanyoba\Nyobanyoba\bin\EntityFramework.SqlServer.dll
+C:\Mata Kuliah SMT 4\LAB PSD DELO FINAL\Nyobanyoba\Nyobanyoba\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Mata Kuliah SMT 4\LAB PSD DELO FINAL\Nyobanyoba\Nyobanyoba\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Mata Kuliah SMT 4\LAB PSD DELO FINAL\Nyobanyoba\Nyobanyoba\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Mata Kuliah SMT 4\LAB PSD DELO FINAL\Nyobanyoba\Nyobanyoba\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Mata Kuliah SMT 4\LAB PSD DELO FINAL\Nyobanyoba\Nyobanyoba\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Mata Kuliah SMT 4\LAB PSD DELO FINAL\Nyobanyoba\Nyobanyoba\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Mata Kuliah SMT 4\LAB PSD DELO FINAL\Nyobanyoba\Nyobanyoba\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Mata Kuliah SMT 4\LAB PSD DELO FINAL\Nyobanyoba\Nyobanyoba\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Mata Kuliah SMT 4\LAB PSD DELO FINAL\Nyobanyoba\Nyobanyoba\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Mata Kuliah SMT 4\LAB PSD DELO FINAL\Nyobanyoba\Nyobanyoba\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Mata Kuliah SMT 4\LAB PSD DELO FINAL\Nyobanyoba\Nyobanyoba\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Mata Kuliah SMT 4\LAB PSD DELO FINAL\Nyobanyoba\Nyobanyoba\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Mata Kuliah SMT 4\LAB PSD DELO FINAL\Nyobanyoba\Nyobanyoba\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Mata Kuliah SMT 4\LAB PSD DELO FINAL\Nyobanyoba\Nyobanyoba\bin\stdole.dll
+C:\Mata Kuliah SMT 4\LAB PSD DELO FINAL\Nyobanyoba\Nyobanyoba\bin\EntityFramework.xml
+C:\Mata Kuliah SMT 4\LAB PSD DELO FINAL\Nyobanyoba\Nyobanyoba\bin\EntityFramework.SqlServer.xml
+C:\Mata Kuliah SMT 4\LAB PSD DELO FINAL\Nyobanyoba\Nyobanyoba\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Mata Kuliah SMT 4\LAB PSD DELO FINAL\Nyobanyoba\Nyobanyoba\obj\Debug\Nyobanyoba.csproj.AssemblyReference.cache
+C:\Mata Kuliah SMT 4\LAB PSD DELO FINAL\Nyobanyoba\Nyobanyoba\obj\Debug\Nyobanyoba.csproj.CoreCompileInputs.cache
+C:\Mata Kuliah SMT 4\LAB PSD DELO FINAL\Nyobanyoba\Nyobanyoba\obj\Debug\Nyobanyoba.csproj.Up2Date
+C:\Mata Kuliah SMT 4\LAB PSD DELO FINAL\Nyobanyoba\Nyobanyoba\obj\Debug\Nyobanyoba.dll
+C:\Mata Kuliah SMT 4\LAB PSD DELO FINAL\Nyobanyoba\Nyobanyoba\obj\Debug\Nyobanyoba.pdb
+C:\Mata Kuliah SMT 4\LAB PSD DELO FINAL\Nyobanyoba\Nyobanyoba\bin\CrystalDecisions.CrystalReports.Engine.dll
+C:\Mata Kuliah SMT 4\LAB PSD DELO FINAL\Nyobanyoba\Nyobanyoba\bin\CrystalDecisions.ReportSource.dll
+C:\Mata Kuliah SMT 4\LAB PSD DELO FINAL\Nyobanyoba\Nyobanyoba\bin\CrystalDecisions.Shared.dll
+C:\Users\pf242\Downloads\wda\Nyobanyoba\Nyobanyoba\bin\Nyobanyoba.dll.config
+C:\Users\pf242\Downloads\wda\Nyobanyoba\Nyobanyoba\bin\Nyobanyoba.dll
+C:\Users\pf242\Downloads\wda\Nyobanyoba\Nyobanyoba\bin\Nyobanyoba.pdb
+C:\Users\pf242\Downloads\wda\Nyobanyoba\Nyobanyoba\bin\roslyn\csc.exe
+C:\Users\pf242\Downloads\wda\Nyobanyoba\Nyobanyoba\bin\roslyn\csc.exe.config
+C:\Users\pf242\Downloads\wda\Nyobanyoba\Nyobanyoba\bin\roslyn\csc.rsp
+C:\Users\pf242\Downloads\wda\Nyobanyoba\Nyobanyoba\bin\roslyn\csi.exe
+C:\Users\pf242\Downloads\wda\Nyobanyoba\Nyobanyoba\bin\roslyn\csi.exe.config
+C:\Users\pf242\Downloads\wda\Nyobanyoba\Nyobanyoba\bin\roslyn\csi.rsp
+C:\Users\pf242\Downloads\wda\Nyobanyoba\Nyobanyoba\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\pf242\Downloads\wda\Nyobanyoba\Nyobanyoba\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\pf242\Downloads\wda\Nyobanyoba\Nyobanyoba\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\pf242\Downloads\wda\Nyobanyoba\Nyobanyoba\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\pf242\Downloads\wda\Nyobanyoba\Nyobanyoba\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\pf242\Downloads\wda\Nyobanyoba\Nyobanyoba\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\pf242\Downloads\wda\Nyobanyoba\Nyobanyoba\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\pf242\Downloads\wda\Nyobanyoba\Nyobanyoba\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\pf242\Downloads\wda\Nyobanyoba\Nyobanyoba\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\pf242\Downloads\wda\Nyobanyoba\Nyobanyoba\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\pf242\Downloads\wda\Nyobanyoba\Nyobanyoba\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\pf242\Downloads\wda\Nyobanyoba\Nyobanyoba\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\pf242\Downloads\wda\Nyobanyoba\Nyobanyoba\bin\roslyn\System.AppContext.dll
+C:\Users\pf242\Downloads\wda\Nyobanyoba\Nyobanyoba\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\pf242\Downloads\wda\Nyobanyoba\Nyobanyoba\bin\roslyn\System.Console.dll
+C:\Users\pf242\Downloads\wda\Nyobanyoba\Nyobanyoba\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\pf242\Downloads\wda\Nyobanyoba\Nyobanyoba\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\pf242\Downloads\wda\Nyobanyoba\Nyobanyoba\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\pf242\Downloads\wda\Nyobanyoba\Nyobanyoba\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\pf242\Downloads\wda\Nyobanyoba\Nyobanyoba\bin\roslyn\System.IO.Compression.dll
+C:\Users\pf242\Downloads\wda\Nyobanyoba\Nyobanyoba\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\pf242\Downloads\wda\Nyobanyoba\Nyobanyoba\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\pf242\Downloads\wda\Nyobanyoba\Nyobanyoba\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\pf242\Downloads\wda\Nyobanyoba\Nyobanyoba\bin\roslyn\System.Net.Http.dll
+C:\Users\pf242\Downloads\wda\Nyobanyoba\Nyobanyoba\bin\roslyn\System.Net.Sockets.dll
+C:\Users\pf242\Downloads\wda\Nyobanyoba\Nyobanyoba\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\pf242\Downloads\wda\Nyobanyoba\Nyobanyoba\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\pf242\Downloads\wda\Nyobanyoba\Nyobanyoba\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\pf242\Downloads\wda\Nyobanyoba\Nyobanyoba\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\pf242\Downloads\wda\Nyobanyoba\Nyobanyoba\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\pf242\Downloads\wda\Nyobanyoba\Nyobanyoba\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\pf242\Downloads\wda\Nyobanyoba\Nyobanyoba\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\pf242\Downloads\wda\Nyobanyoba\Nyobanyoba\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\pf242\Downloads\wda\Nyobanyoba\Nyobanyoba\bin\roslyn\System.ValueTuple.dll
+C:\Users\pf242\Downloads\wda\Nyobanyoba\Nyobanyoba\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\pf242\Downloads\wda\Nyobanyoba\Nyobanyoba\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\pf242\Downloads\wda\Nyobanyoba\Nyobanyoba\bin\roslyn\System.Xml.XPath.dll
+C:\Users\pf242\Downloads\wda\Nyobanyoba\Nyobanyoba\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\pf242\Downloads\wda\Nyobanyoba\Nyobanyoba\bin\roslyn\vbc.exe
+C:\Users\pf242\Downloads\wda\Nyobanyoba\Nyobanyoba\bin\roslyn\vbc.exe.config
+C:\Users\pf242\Downloads\wda\Nyobanyoba\Nyobanyoba\bin\roslyn\vbc.rsp
+C:\Users\pf242\Downloads\wda\Nyobanyoba\Nyobanyoba\bin\roslyn\VBCSCompiler.exe
+C:\Users\pf242\Downloads\wda\Nyobanyoba\Nyobanyoba\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\pf242\Downloads\wda\Nyobanyoba\Nyobanyoba\bin\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\pf242\Downloads\wda\Nyobanyoba\Nyobanyoba\bin\CrystalDecisions.ReportSource.dll
+C:\Users\pf242\Downloads\wda\Nyobanyoba\Nyobanyoba\bin\CrystalDecisions.Shared.dll
+C:\Users\pf242\Downloads\wda\Nyobanyoba\Nyobanyoba\bin\EntityFramework.dll
+C:\Users\pf242\Downloads\wda\Nyobanyoba\Nyobanyoba\bin\EntityFramework.SqlServer.dll
+C:\Users\pf242\Downloads\wda\Nyobanyoba\Nyobanyoba\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\pf242\Downloads\wda\Nyobanyoba\Nyobanyoba\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\pf242\Downloads\wda\Nyobanyoba\Nyobanyoba\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\pf242\Downloads\wda\Nyobanyoba\Nyobanyoba\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\pf242\Downloads\wda\Nyobanyoba\Nyobanyoba\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\pf242\Downloads\wda\Nyobanyoba\Nyobanyoba\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\pf242\Downloads\wda\Nyobanyoba\Nyobanyoba\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\pf242\Downloads\wda\Nyobanyoba\Nyobanyoba\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\pf242\Downloads\wda\Nyobanyoba\Nyobanyoba\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\pf242\Downloads\wda\Nyobanyoba\Nyobanyoba\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\pf242\Downloads\wda\Nyobanyoba\Nyobanyoba\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\pf242\Downloads\wda\Nyobanyoba\Nyobanyoba\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\pf242\Downloads\wda\Nyobanyoba\Nyobanyoba\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\pf242\Downloads\wda\Nyobanyoba\Nyobanyoba\bin\stdole.dll
+C:\Users\pf242\Downloads\wda\Nyobanyoba\Nyobanyoba\bin\EntityFramework.xml
+C:\Users\pf242\Downloads\wda\Nyobanyoba\Nyobanyoba\bin\EntityFramework.SqlServer.xml
+C:\Users\pf242\Downloads\wda\Nyobanyoba\Nyobanyoba\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\pf242\Downloads\wda\Nyobanyoba\Nyobanyoba\obj\Debug\Nyobanyoba.csproj.AssemblyReference.cache
+C:\Users\pf242\Downloads\wda\Nyobanyoba\Nyobanyoba\obj\Debug\Nyobanyoba.csproj.CoreCompileInputs.cache
+C:\Users\pf242\Downloads\wda\Nyobanyoba\Nyobanyoba\obj\Debug\Nyobanyoba.csproj.Up2Date
+C:\Users\pf242\Downloads\wda\Nyobanyoba\Nyobanyoba\obj\Debug\Nyobanyoba.dll
+C:\Users\pf242\Downloads\wda\Nyobanyoba\Nyobanyoba\obj\Debug\Nyobanyoba.pdb
+C:\Mata Kuliah SMT 4\LAB PSD DELO FINAL\Nyobanyoba(2)\Nyobanyoba (1)\Nyobanyoba\Nyobanyoba\bin\Nyobanyoba.dll.config
+C:\Mata Kuliah SMT 4\LAB PSD DELO FINAL\Nyobanyoba(2)\Nyobanyoba (1)\Nyobanyoba\Nyobanyoba\bin\Nyobanyoba.dll
+C:\Mata Kuliah SMT 4\LAB PSD DELO FINAL\Nyobanyoba(2)\Nyobanyoba (1)\Nyobanyoba\Nyobanyoba\bin\Nyobanyoba.pdb
+C:\Mata Kuliah SMT 4\LAB PSD DELO FINAL\Nyobanyoba(2)\Nyobanyoba (1)\Nyobanyoba\Nyobanyoba\bin\roslyn\csc.exe
+C:\Mata Kuliah SMT 4\LAB PSD DELO FINAL\Nyobanyoba(2)\Nyobanyoba (1)\Nyobanyoba\Nyobanyoba\bin\roslyn\csc.exe.config
+C:\Mata Kuliah SMT 4\LAB PSD DELO FINAL\Nyobanyoba(2)\Nyobanyoba (1)\Nyobanyoba\Nyobanyoba\bin\roslyn\csc.rsp
+C:\Mata Kuliah SMT 4\LAB PSD DELO FINAL\Nyobanyoba(2)\Nyobanyoba (1)\Nyobanyoba\Nyobanyoba\bin\roslyn\csi.exe
+C:\Mata Kuliah SMT 4\LAB PSD DELO FINAL\Nyobanyoba(2)\Nyobanyoba (1)\Nyobanyoba\Nyobanyoba\bin\roslyn\csi.exe.config
+C:\Mata Kuliah SMT 4\LAB PSD DELO FINAL\Nyobanyoba(2)\Nyobanyoba (1)\Nyobanyoba\Nyobanyoba\bin\roslyn\csi.rsp
+C:\Mata Kuliah SMT 4\LAB PSD DELO FINAL\Nyobanyoba(2)\Nyobanyoba (1)\Nyobanyoba\Nyobanyoba\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Mata Kuliah SMT 4\LAB PSD DELO FINAL\Nyobanyoba(2)\Nyobanyoba (1)\Nyobanyoba\Nyobanyoba\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Mata Kuliah SMT 4\LAB PSD DELO FINAL\Nyobanyoba(2)\Nyobanyoba (1)\Nyobanyoba\Nyobanyoba\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Mata Kuliah SMT 4\LAB PSD DELO FINAL\Nyobanyoba(2)\Nyobanyoba (1)\Nyobanyoba\Nyobanyoba\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Mata Kuliah SMT 4\LAB PSD DELO FINAL\Nyobanyoba(2)\Nyobanyoba (1)\Nyobanyoba\Nyobanyoba\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Mata Kuliah SMT 4\LAB PSD DELO FINAL\Nyobanyoba(2)\Nyobanyoba (1)\Nyobanyoba\Nyobanyoba\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Mata Kuliah SMT 4\LAB PSD DELO FINAL\Nyobanyoba(2)\Nyobanyoba (1)\Nyobanyoba\Nyobanyoba\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Mata Kuliah SMT 4\LAB PSD DELO FINAL\Nyobanyoba(2)\Nyobanyoba (1)\Nyobanyoba\Nyobanyoba\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Mata Kuliah SMT 4\LAB PSD DELO FINAL\Nyobanyoba(2)\Nyobanyoba (1)\Nyobanyoba\Nyobanyoba\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Mata Kuliah SMT 4\LAB PSD DELO FINAL\Nyobanyoba(2)\Nyobanyoba (1)\Nyobanyoba\Nyobanyoba\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Mata Kuliah SMT 4\LAB PSD DELO FINAL\Nyobanyoba(2)\Nyobanyoba (1)\Nyobanyoba\Nyobanyoba\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Mata Kuliah SMT 4\LAB PSD DELO FINAL\Nyobanyoba(2)\Nyobanyoba (1)\Nyobanyoba\Nyobanyoba\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Mata Kuliah SMT 4\LAB PSD DELO FINAL\Nyobanyoba(2)\Nyobanyoba (1)\Nyobanyoba\Nyobanyoba\bin\roslyn\System.AppContext.dll
+C:\Mata Kuliah SMT 4\LAB PSD DELO FINAL\Nyobanyoba(2)\Nyobanyoba (1)\Nyobanyoba\Nyobanyoba\bin\roslyn\System.Collections.Immutable.dll
+C:\Mata Kuliah SMT 4\LAB PSD DELO FINAL\Nyobanyoba(2)\Nyobanyoba (1)\Nyobanyoba\Nyobanyoba\bin\roslyn\System.Console.dll
+C:\Mata Kuliah SMT 4\LAB PSD DELO FINAL\Nyobanyoba(2)\Nyobanyoba (1)\Nyobanyoba\Nyobanyoba\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Mata Kuliah SMT 4\LAB PSD DELO FINAL\Nyobanyoba(2)\Nyobanyoba (1)\Nyobanyoba\Nyobanyoba\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Mata Kuliah SMT 4\LAB PSD DELO FINAL\Nyobanyoba(2)\Nyobanyoba (1)\Nyobanyoba\Nyobanyoba\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Mata Kuliah SMT 4\LAB PSD DELO FINAL\Nyobanyoba(2)\Nyobanyoba (1)\Nyobanyoba\Nyobanyoba\bin\roslyn\System.Globalization.Calendars.dll
+C:\Mata Kuliah SMT 4\LAB PSD DELO FINAL\Nyobanyoba(2)\Nyobanyoba (1)\Nyobanyoba\Nyobanyoba\bin\roslyn\System.IO.Compression.dll
+C:\Mata Kuliah SMT 4\LAB PSD DELO FINAL\Nyobanyoba(2)\Nyobanyoba (1)\Nyobanyoba\Nyobanyoba\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Mata Kuliah SMT 4\LAB PSD DELO FINAL\Nyobanyoba(2)\Nyobanyoba (1)\Nyobanyoba\Nyobanyoba\bin\roslyn\System.IO.FileSystem.dll
+C:\Mata Kuliah SMT 4\LAB PSD DELO FINAL\Nyobanyoba(2)\Nyobanyoba (1)\Nyobanyoba\Nyobanyoba\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Mata Kuliah SMT 4\LAB PSD DELO FINAL\Nyobanyoba(2)\Nyobanyoba (1)\Nyobanyoba\Nyobanyoba\bin\roslyn\System.Net.Http.dll
+C:\Mata Kuliah SMT 4\LAB PSD DELO FINAL\Nyobanyoba(2)\Nyobanyoba (1)\Nyobanyoba\Nyobanyoba\bin\roslyn\System.Net.Sockets.dll
+C:\Mata Kuliah SMT 4\LAB PSD DELO FINAL\Nyobanyoba(2)\Nyobanyoba (1)\Nyobanyoba\Nyobanyoba\bin\roslyn\System.Reflection.Metadata.dll
+C:\Mata Kuliah SMT 4\LAB PSD DELO FINAL\Nyobanyoba(2)\Nyobanyoba (1)\Nyobanyoba\Nyobanyoba\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Mata Kuliah SMT 4\LAB PSD DELO FINAL\Nyobanyoba(2)\Nyobanyoba (1)\Nyobanyoba\Nyobanyoba\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Mata Kuliah SMT 4\LAB PSD DELO FINAL\Nyobanyoba(2)\Nyobanyoba (1)\Nyobanyoba\Nyobanyoba\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Mata Kuliah SMT 4\LAB PSD DELO FINAL\Nyobanyoba(2)\Nyobanyoba (1)\Nyobanyoba\Nyobanyoba\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Mata Kuliah SMT 4\LAB PSD DELO FINAL\Nyobanyoba(2)\Nyobanyoba (1)\Nyobanyoba\Nyobanyoba\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Mata Kuliah SMT 4\LAB PSD DELO FINAL\Nyobanyoba(2)\Nyobanyoba (1)\Nyobanyoba\Nyobanyoba\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Mata Kuliah SMT 4\LAB PSD DELO FINAL\Nyobanyoba(2)\Nyobanyoba (1)\Nyobanyoba\Nyobanyoba\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Mata Kuliah SMT 4\LAB PSD DELO FINAL\Nyobanyoba(2)\Nyobanyoba (1)\Nyobanyoba\Nyobanyoba\bin\roslyn\System.ValueTuple.dll
+C:\Mata Kuliah SMT 4\LAB PSD DELO FINAL\Nyobanyoba(2)\Nyobanyoba (1)\Nyobanyoba\Nyobanyoba\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Mata Kuliah SMT 4\LAB PSD DELO FINAL\Nyobanyoba(2)\Nyobanyoba (1)\Nyobanyoba\Nyobanyoba\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Mata Kuliah SMT 4\LAB PSD DELO FINAL\Nyobanyoba(2)\Nyobanyoba (1)\Nyobanyoba\Nyobanyoba\bin\roslyn\System.Xml.XPath.dll
+C:\Mata Kuliah SMT 4\LAB PSD DELO FINAL\Nyobanyoba(2)\Nyobanyoba (1)\Nyobanyoba\Nyobanyoba\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Mata Kuliah SMT 4\LAB PSD DELO FINAL\Nyobanyoba(2)\Nyobanyoba (1)\Nyobanyoba\Nyobanyoba\bin\roslyn\vbc.exe
+C:\Mata Kuliah SMT 4\LAB PSD DELO FINAL\Nyobanyoba(2)\Nyobanyoba (1)\Nyobanyoba\Nyobanyoba\bin\roslyn\vbc.exe.config
+C:\Mata Kuliah SMT 4\LAB PSD DELO FINAL\Nyobanyoba(2)\Nyobanyoba (1)\Nyobanyoba\Nyobanyoba\bin\roslyn\vbc.rsp
+C:\Mata Kuliah SMT 4\LAB PSD DELO FINAL\Nyobanyoba(2)\Nyobanyoba (1)\Nyobanyoba\Nyobanyoba\bin\roslyn\VBCSCompiler.exe
+C:\Mata Kuliah SMT 4\LAB PSD DELO FINAL\Nyobanyoba(2)\Nyobanyoba (1)\Nyobanyoba\Nyobanyoba\bin\roslyn\VBCSCompiler.exe.config
+C:\Mata Kuliah SMT 4\LAB PSD DELO FINAL\Nyobanyoba(2)\Nyobanyoba (1)\Nyobanyoba\Nyobanyoba\bin\CrystalDecisions.CrystalReports.Engine.dll
+C:\Mata Kuliah SMT 4\LAB PSD DELO FINAL\Nyobanyoba(2)\Nyobanyoba (1)\Nyobanyoba\Nyobanyoba\bin\CrystalDecisions.ReportSource.dll
+C:\Mata Kuliah SMT 4\LAB PSD DELO FINAL\Nyobanyoba(2)\Nyobanyoba (1)\Nyobanyoba\Nyobanyoba\bin\CrystalDecisions.Shared.dll
+C:\Mata Kuliah SMT 4\LAB PSD DELO FINAL\Nyobanyoba(2)\Nyobanyoba (1)\Nyobanyoba\Nyobanyoba\bin\EntityFramework.dll
+C:\Mata Kuliah SMT 4\LAB PSD DELO FINAL\Nyobanyoba(2)\Nyobanyoba (1)\Nyobanyoba\Nyobanyoba\bin\EntityFramework.SqlServer.dll
+C:\Mata Kuliah SMT 4\LAB PSD DELO FINAL\Nyobanyoba(2)\Nyobanyoba (1)\Nyobanyoba\Nyobanyoba\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Mata Kuliah SMT 4\LAB PSD DELO FINAL\Nyobanyoba(2)\Nyobanyoba (1)\Nyobanyoba\Nyobanyoba\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Mata Kuliah SMT 4\LAB PSD DELO FINAL\Nyobanyoba(2)\Nyobanyoba (1)\Nyobanyoba\Nyobanyoba\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Mata Kuliah SMT 4\LAB PSD DELO FINAL\Nyobanyoba(2)\Nyobanyoba (1)\Nyobanyoba\Nyobanyoba\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Mata Kuliah SMT 4\LAB PSD DELO FINAL\Nyobanyoba(2)\Nyobanyoba (1)\Nyobanyoba\Nyobanyoba\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Mata Kuliah SMT 4\LAB PSD DELO FINAL\Nyobanyoba(2)\Nyobanyoba (1)\Nyobanyoba\Nyobanyoba\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Mata Kuliah SMT 4\LAB PSD DELO FINAL\Nyobanyoba(2)\Nyobanyoba (1)\Nyobanyoba\Nyobanyoba\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Mata Kuliah SMT 4\LAB PSD DELO FINAL\Nyobanyoba(2)\Nyobanyoba (1)\Nyobanyoba\Nyobanyoba\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Mata Kuliah SMT 4\LAB PSD DELO FINAL\Nyobanyoba(2)\Nyobanyoba (1)\Nyobanyoba\Nyobanyoba\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Mata Kuliah SMT 4\LAB PSD DELO FINAL\Nyobanyoba(2)\Nyobanyoba (1)\Nyobanyoba\Nyobanyoba\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Mata Kuliah SMT 4\LAB PSD DELO FINAL\Nyobanyoba(2)\Nyobanyoba (1)\Nyobanyoba\Nyobanyoba\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Mata Kuliah SMT 4\LAB PSD DELO FINAL\Nyobanyoba(2)\Nyobanyoba (1)\Nyobanyoba\Nyobanyoba\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Mata Kuliah SMT 4\LAB PSD DELO FINAL\Nyobanyoba(2)\Nyobanyoba (1)\Nyobanyoba\Nyobanyoba\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Mata Kuliah SMT 4\LAB PSD DELO FINAL\Nyobanyoba(2)\Nyobanyoba (1)\Nyobanyoba\Nyobanyoba\bin\stdole.dll
+C:\Mata Kuliah SMT 4\LAB PSD DELO FINAL\Nyobanyoba(2)\Nyobanyoba (1)\Nyobanyoba\Nyobanyoba\bin\EntityFramework.xml
+C:\Mata Kuliah SMT 4\LAB PSD DELO FINAL\Nyobanyoba(2)\Nyobanyoba (1)\Nyobanyoba\Nyobanyoba\bin\EntityFramework.SqlServer.xml
+C:\Mata Kuliah SMT 4\LAB PSD DELO FINAL\Nyobanyoba(2)\Nyobanyoba (1)\Nyobanyoba\Nyobanyoba\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Mata Kuliah SMT 4\LAB PSD DELO FINAL\Nyobanyoba(2)\Nyobanyoba (1)\Nyobanyoba\Nyobanyoba\obj\Debug\Nyobanyoba.csproj.AssemblyReference.cache
+C:\Mata Kuliah SMT 4\LAB PSD DELO FINAL\Nyobanyoba(2)\Nyobanyoba (1)\Nyobanyoba\Nyobanyoba\obj\Debug\Nyobanyoba.csproj.CoreCompileInputs.cache
+C:\Mata Kuliah SMT 4\LAB PSD DELO FINAL\Nyobanyoba(2)\Nyobanyoba (1)\Nyobanyoba\Nyobanyoba\obj\Debug\Nyobanyoba.csproj.Up2Date
+C:\Mata Kuliah SMT 4\LAB PSD DELO FINAL\Nyobanyoba(2)\Nyobanyoba (1)\Nyobanyoba\Nyobanyoba\obj\Debug\Nyobanyoba.dll
+C:\Mata Kuliah SMT 4\LAB PSD DELO FINAL\Nyobanyoba(2)\Nyobanyoba (1)\Nyobanyoba\Nyobanyoba\obj\Debug\Nyobanyoba.pdb
+C:\Users\pf242\Downloads\Nyobanyoba (1)\Nyobanyoba (1)\Nyobanyoba\Nyobanyoba\bin\Nyobanyoba.dll.config
+C:\Users\pf242\Downloads\Nyobanyoba (1)\Nyobanyoba (1)\Nyobanyoba\Nyobanyoba\bin\Nyobanyoba.dll
+C:\Users\pf242\Downloads\Nyobanyoba (1)\Nyobanyoba (1)\Nyobanyoba\Nyobanyoba\bin\Nyobanyoba.pdb
+C:\Users\pf242\Downloads\Nyobanyoba (1)\Nyobanyoba (1)\Nyobanyoba\Nyobanyoba\bin\roslyn\csc.exe
+C:\Users\pf242\Downloads\Nyobanyoba (1)\Nyobanyoba (1)\Nyobanyoba\Nyobanyoba\bin\roslyn\csc.exe.config
+C:\Users\pf242\Downloads\Nyobanyoba (1)\Nyobanyoba (1)\Nyobanyoba\Nyobanyoba\bin\roslyn\csc.rsp
+C:\Users\pf242\Downloads\Nyobanyoba (1)\Nyobanyoba (1)\Nyobanyoba\Nyobanyoba\bin\roslyn\csi.exe
+C:\Users\pf242\Downloads\Nyobanyoba (1)\Nyobanyoba (1)\Nyobanyoba\Nyobanyoba\bin\roslyn\csi.exe.config
+C:\Users\pf242\Downloads\Nyobanyoba (1)\Nyobanyoba (1)\Nyobanyoba\Nyobanyoba\bin\roslyn\csi.rsp
+C:\Users\pf242\Downloads\Nyobanyoba (1)\Nyobanyoba (1)\Nyobanyoba\Nyobanyoba\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\pf242\Downloads\Nyobanyoba (1)\Nyobanyoba (1)\Nyobanyoba\Nyobanyoba\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\pf242\Downloads\Nyobanyoba (1)\Nyobanyoba (1)\Nyobanyoba\Nyobanyoba\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\pf242\Downloads\Nyobanyoba (1)\Nyobanyoba (1)\Nyobanyoba\Nyobanyoba\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\pf242\Downloads\Nyobanyoba (1)\Nyobanyoba (1)\Nyobanyoba\Nyobanyoba\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\pf242\Downloads\Nyobanyoba (1)\Nyobanyoba (1)\Nyobanyoba\Nyobanyoba\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\pf242\Downloads\Nyobanyoba (1)\Nyobanyoba (1)\Nyobanyoba\Nyobanyoba\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\pf242\Downloads\Nyobanyoba (1)\Nyobanyoba (1)\Nyobanyoba\Nyobanyoba\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\pf242\Downloads\Nyobanyoba (1)\Nyobanyoba (1)\Nyobanyoba\Nyobanyoba\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\pf242\Downloads\Nyobanyoba (1)\Nyobanyoba (1)\Nyobanyoba\Nyobanyoba\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\pf242\Downloads\Nyobanyoba (1)\Nyobanyoba (1)\Nyobanyoba\Nyobanyoba\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\pf242\Downloads\Nyobanyoba (1)\Nyobanyoba (1)\Nyobanyoba\Nyobanyoba\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\pf242\Downloads\Nyobanyoba (1)\Nyobanyoba (1)\Nyobanyoba\Nyobanyoba\bin\roslyn\System.AppContext.dll
+C:\Users\pf242\Downloads\Nyobanyoba (1)\Nyobanyoba (1)\Nyobanyoba\Nyobanyoba\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\pf242\Downloads\Nyobanyoba (1)\Nyobanyoba (1)\Nyobanyoba\Nyobanyoba\bin\roslyn\System.Console.dll
+C:\Users\pf242\Downloads\Nyobanyoba (1)\Nyobanyoba (1)\Nyobanyoba\Nyobanyoba\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\pf242\Downloads\Nyobanyoba (1)\Nyobanyoba (1)\Nyobanyoba\Nyobanyoba\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\pf242\Downloads\Nyobanyoba (1)\Nyobanyoba (1)\Nyobanyoba\Nyobanyoba\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\pf242\Downloads\Nyobanyoba (1)\Nyobanyoba (1)\Nyobanyoba\Nyobanyoba\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\pf242\Downloads\Nyobanyoba (1)\Nyobanyoba (1)\Nyobanyoba\Nyobanyoba\bin\roslyn\System.IO.Compression.dll
+C:\Users\pf242\Downloads\Nyobanyoba (1)\Nyobanyoba (1)\Nyobanyoba\Nyobanyoba\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\pf242\Downloads\Nyobanyoba (1)\Nyobanyoba (1)\Nyobanyoba\Nyobanyoba\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\pf242\Downloads\Nyobanyoba (1)\Nyobanyoba (1)\Nyobanyoba\Nyobanyoba\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\pf242\Downloads\Nyobanyoba (1)\Nyobanyoba (1)\Nyobanyoba\Nyobanyoba\bin\roslyn\System.Net.Http.dll
+C:\Users\pf242\Downloads\Nyobanyoba (1)\Nyobanyoba (1)\Nyobanyoba\Nyobanyoba\bin\roslyn\System.Net.Sockets.dll
+C:\Users\pf242\Downloads\Nyobanyoba (1)\Nyobanyoba (1)\Nyobanyoba\Nyobanyoba\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\pf242\Downloads\Nyobanyoba (1)\Nyobanyoba (1)\Nyobanyoba\Nyobanyoba\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\pf242\Downloads\Nyobanyoba (1)\Nyobanyoba (1)\Nyobanyoba\Nyobanyoba\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\pf242\Downloads\Nyobanyoba (1)\Nyobanyoba (1)\Nyobanyoba\Nyobanyoba\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\pf242\Downloads\Nyobanyoba (1)\Nyobanyoba (1)\Nyobanyoba\Nyobanyoba\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\pf242\Downloads\Nyobanyoba (1)\Nyobanyoba (1)\Nyobanyoba\Nyobanyoba\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\pf242\Downloads\Nyobanyoba (1)\Nyobanyoba (1)\Nyobanyoba\Nyobanyoba\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\pf242\Downloads\Nyobanyoba (1)\Nyobanyoba (1)\Nyobanyoba\Nyobanyoba\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\pf242\Downloads\Nyobanyoba (1)\Nyobanyoba (1)\Nyobanyoba\Nyobanyoba\bin\roslyn\System.ValueTuple.dll
+C:\Users\pf242\Downloads\Nyobanyoba (1)\Nyobanyoba (1)\Nyobanyoba\Nyobanyoba\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\pf242\Downloads\Nyobanyoba (1)\Nyobanyoba (1)\Nyobanyoba\Nyobanyoba\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\pf242\Downloads\Nyobanyoba (1)\Nyobanyoba (1)\Nyobanyoba\Nyobanyoba\bin\roslyn\System.Xml.XPath.dll
+C:\Users\pf242\Downloads\Nyobanyoba (1)\Nyobanyoba (1)\Nyobanyoba\Nyobanyoba\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\pf242\Downloads\Nyobanyoba (1)\Nyobanyoba (1)\Nyobanyoba\Nyobanyoba\bin\roslyn\vbc.exe
+C:\Users\pf242\Downloads\Nyobanyoba (1)\Nyobanyoba (1)\Nyobanyoba\Nyobanyoba\bin\roslyn\vbc.exe.config
+C:\Users\pf242\Downloads\Nyobanyoba (1)\Nyobanyoba (1)\Nyobanyoba\Nyobanyoba\bin\roslyn\vbc.rsp
+C:\Users\pf242\Downloads\Nyobanyoba (1)\Nyobanyoba (1)\Nyobanyoba\Nyobanyoba\bin\roslyn\VBCSCompiler.exe
+C:\Users\pf242\Downloads\Nyobanyoba (1)\Nyobanyoba (1)\Nyobanyoba\Nyobanyoba\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\pf242\Downloads\Nyobanyoba (1)\Nyobanyoba (1)\Nyobanyoba\Nyobanyoba\bin\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\pf242\Downloads\Nyobanyoba (1)\Nyobanyoba (1)\Nyobanyoba\Nyobanyoba\bin\CrystalDecisions.ReportSource.dll
+C:\Users\pf242\Downloads\Nyobanyoba (1)\Nyobanyoba (1)\Nyobanyoba\Nyobanyoba\bin\CrystalDecisions.Shared.dll
+C:\Users\pf242\Downloads\Nyobanyoba (1)\Nyobanyoba (1)\Nyobanyoba\Nyobanyoba\bin\CrystalDecisions.Web.dll
+C:\Users\pf242\Downloads\Nyobanyoba (1)\Nyobanyoba (1)\Nyobanyoba\Nyobanyoba\bin\EntityFramework.dll
+C:\Users\pf242\Downloads\Nyobanyoba (1)\Nyobanyoba (1)\Nyobanyoba\Nyobanyoba\bin\EntityFramework.SqlServer.dll
+C:\Users\pf242\Downloads\Nyobanyoba (1)\Nyobanyoba (1)\Nyobanyoba\Nyobanyoba\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\pf242\Downloads\Nyobanyoba (1)\Nyobanyoba (1)\Nyobanyoba\Nyobanyoba\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\pf242\Downloads\Nyobanyoba (1)\Nyobanyoba (1)\Nyobanyoba\Nyobanyoba\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\pf242\Downloads\Nyobanyoba (1)\Nyobanyoba (1)\Nyobanyoba\Nyobanyoba\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\pf242\Downloads\Nyobanyoba (1)\Nyobanyoba (1)\Nyobanyoba\Nyobanyoba\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\pf242\Downloads\Nyobanyoba (1)\Nyobanyoba (1)\Nyobanyoba\Nyobanyoba\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\pf242\Downloads\Nyobanyoba (1)\Nyobanyoba (1)\Nyobanyoba\Nyobanyoba\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\pf242\Downloads\Nyobanyoba (1)\Nyobanyoba (1)\Nyobanyoba\Nyobanyoba\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\pf242\Downloads\Nyobanyoba (1)\Nyobanyoba (1)\Nyobanyoba\Nyobanyoba\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\pf242\Downloads\Nyobanyoba (1)\Nyobanyoba (1)\Nyobanyoba\Nyobanyoba\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\pf242\Downloads\Nyobanyoba (1)\Nyobanyoba (1)\Nyobanyoba\Nyobanyoba\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\pf242\Downloads\Nyobanyoba (1)\Nyobanyoba (1)\Nyobanyoba\Nyobanyoba\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\pf242\Downloads\Nyobanyoba (1)\Nyobanyoba (1)\Nyobanyoba\Nyobanyoba\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\pf242\Downloads\Nyobanyoba (1)\Nyobanyoba (1)\Nyobanyoba\Nyobanyoba\bin\stdole.dll
+C:\Users\pf242\Downloads\Nyobanyoba (1)\Nyobanyoba (1)\Nyobanyoba\Nyobanyoba\bin\EntityFramework.xml
+C:\Users\pf242\Downloads\Nyobanyoba (1)\Nyobanyoba (1)\Nyobanyoba\Nyobanyoba\bin\EntityFramework.SqlServer.xml
+C:\Users\pf242\Downloads\Nyobanyoba (1)\Nyobanyoba (1)\Nyobanyoba\Nyobanyoba\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\pf242\Downloads\Nyobanyoba (1)\Nyobanyoba (1)\Nyobanyoba\Nyobanyoba\obj\Debug\Nyobanyoba.csproj.AssemblyReference.cache
+C:\Users\pf242\Downloads\Nyobanyoba (1)\Nyobanyoba (1)\Nyobanyoba\Nyobanyoba\obj\Debug\Nyobanyoba.csproj.CoreCompileInputs.cache
+C:\Users\pf242\Downloads\Nyobanyoba (1)\Nyobanyoba (1)\Nyobanyoba\Nyobanyoba\obj\Debug\Nyobanyoba.csproj.Up2Date
+C:\Users\pf242\Downloads\Nyobanyoba (1)\Nyobanyoba (1)\Nyobanyoba\Nyobanyoba\obj\Debug\Nyobanyoba.dll
+C:\Users\pf242\Downloads\Nyobanyoba (1)\Nyobanyoba (1)\Nyobanyoba\Nyobanyoba\obj\Debug\Nyobanyoba.pdb
+C:\Users\pf242\Downloads\GymMe riil\Nyobanyoba\Nyobanyoba\bin\Nyobanyoba.dll.config
+C:\Users\pf242\Downloads\GymMe riil\Nyobanyoba\Nyobanyoba\bin\Nyobanyoba.dll
+C:\Users\pf242\Downloads\GymMe riil\Nyobanyoba\Nyobanyoba\bin\Nyobanyoba.pdb
+C:\Users\pf242\Downloads\GymMe riil\Nyobanyoba\Nyobanyoba\bin\roslyn\csc.exe
+C:\Users\pf242\Downloads\GymMe riil\Nyobanyoba\Nyobanyoba\bin\roslyn\csc.exe.config
+C:\Users\pf242\Downloads\GymMe riil\Nyobanyoba\Nyobanyoba\bin\roslyn\csc.rsp
+C:\Users\pf242\Downloads\GymMe riil\Nyobanyoba\Nyobanyoba\bin\roslyn\csi.exe
+C:\Users\pf242\Downloads\GymMe riil\Nyobanyoba\Nyobanyoba\bin\roslyn\csi.exe.config
+C:\Users\pf242\Downloads\GymMe riil\Nyobanyoba\Nyobanyoba\bin\roslyn\csi.rsp
+C:\Users\pf242\Downloads\GymMe riil\Nyobanyoba\Nyobanyoba\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\pf242\Downloads\GymMe riil\Nyobanyoba\Nyobanyoba\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\pf242\Downloads\GymMe riil\Nyobanyoba\Nyobanyoba\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\pf242\Downloads\GymMe riil\Nyobanyoba\Nyobanyoba\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\pf242\Downloads\GymMe riil\Nyobanyoba\Nyobanyoba\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\pf242\Downloads\GymMe riil\Nyobanyoba\Nyobanyoba\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\pf242\Downloads\GymMe riil\Nyobanyoba\Nyobanyoba\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\pf242\Downloads\GymMe riil\Nyobanyoba\Nyobanyoba\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\pf242\Downloads\GymMe riil\Nyobanyoba\Nyobanyoba\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\pf242\Downloads\GymMe riil\Nyobanyoba\Nyobanyoba\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\pf242\Downloads\GymMe riil\Nyobanyoba\Nyobanyoba\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\pf242\Downloads\GymMe riil\Nyobanyoba\Nyobanyoba\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\pf242\Downloads\GymMe riil\Nyobanyoba\Nyobanyoba\bin\roslyn\System.AppContext.dll
+C:\Users\pf242\Downloads\GymMe riil\Nyobanyoba\Nyobanyoba\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\pf242\Downloads\GymMe riil\Nyobanyoba\Nyobanyoba\bin\roslyn\System.Console.dll
+C:\Users\pf242\Downloads\GymMe riil\Nyobanyoba\Nyobanyoba\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\pf242\Downloads\GymMe riil\Nyobanyoba\Nyobanyoba\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\pf242\Downloads\GymMe riil\Nyobanyoba\Nyobanyoba\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\pf242\Downloads\GymMe riil\Nyobanyoba\Nyobanyoba\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\pf242\Downloads\GymMe riil\Nyobanyoba\Nyobanyoba\bin\roslyn\System.IO.Compression.dll
+C:\Users\pf242\Downloads\GymMe riil\Nyobanyoba\Nyobanyoba\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\pf242\Downloads\GymMe riil\Nyobanyoba\Nyobanyoba\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\pf242\Downloads\GymMe riil\Nyobanyoba\Nyobanyoba\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\pf242\Downloads\GymMe riil\Nyobanyoba\Nyobanyoba\bin\roslyn\System.Net.Http.dll
+C:\Users\pf242\Downloads\GymMe riil\Nyobanyoba\Nyobanyoba\bin\roslyn\System.Net.Sockets.dll
+C:\Users\pf242\Downloads\GymMe riil\Nyobanyoba\Nyobanyoba\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\pf242\Downloads\GymMe riil\Nyobanyoba\Nyobanyoba\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\pf242\Downloads\GymMe riil\Nyobanyoba\Nyobanyoba\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\pf242\Downloads\GymMe riil\Nyobanyoba\Nyobanyoba\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\pf242\Downloads\GymMe riil\Nyobanyoba\Nyobanyoba\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\pf242\Downloads\GymMe riil\Nyobanyoba\Nyobanyoba\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\pf242\Downloads\GymMe riil\Nyobanyoba\Nyobanyoba\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\pf242\Downloads\GymMe riil\Nyobanyoba\Nyobanyoba\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\pf242\Downloads\GymMe riil\Nyobanyoba\Nyobanyoba\bin\roslyn\System.ValueTuple.dll
+C:\Users\pf242\Downloads\GymMe riil\Nyobanyoba\Nyobanyoba\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\pf242\Downloads\GymMe riil\Nyobanyoba\Nyobanyoba\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\pf242\Downloads\GymMe riil\Nyobanyoba\Nyobanyoba\bin\roslyn\System.Xml.XPath.dll
+C:\Users\pf242\Downloads\GymMe riil\Nyobanyoba\Nyobanyoba\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\pf242\Downloads\GymMe riil\Nyobanyoba\Nyobanyoba\bin\roslyn\vbc.exe
+C:\Users\pf242\Downloads\GymMe riil\Nyobanyoba\Nyobanyoba\bin\roslyn\vbc.exe.config
+C:\Users\pf242\Downloads\GymMe riil\Nyobanyoba\Nyobanyoba\bin\roslyn\vbc.rsp
+C:\Users\pf242\Downloads\GymMe riil\Nyobanyoba\Nyobanyoba\bin\roslyn\VBCSCompiler.exe
+C:\Users\pf242\Downloads\GymMe riil\Nyobanyoba\Nyobanyoba\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\pf242\Downloads\GymMe riil\Nyobanyoba\Nyobanyoba\bin\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\pf242\Downloads\GymMe riil\Nyobanyoba\Nyobanyoba\bin\CrystalDecisions.ReportSource.dll
+C:\Users\pf242\Downloads\GymMe riil\Nyobanyoba\Nyobanyoba\bin\CrystalDecisions.Shared.dll
+C:\Users\pf242\Downloads\GymMe riil\Nyobanyoba\Nyobanyoba\bin\CrystalDecisions.Web.dll
+C:\Users\pf242\Downloads\GymMe riil\Nyobanyoba\Nyobanyoba\bin\EntityFramework.dll
+C:\Users\pf242\Downloads\GymMe riil\Nyobanyoba\Nyobanyoba\bin\EntityFramework.SqlServer.dll
+C:\Users\pf242\Downloads\GymMe riil\Nyobanyoba\Nyobanyoba\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\pf242\Downloads\GymMe riil\Nyobanyoba\Nyobanyoba\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\pf242\Downloads\GymMe riil\Nyobanyoba\Nyobanyoba\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\pf242\Downloads\GymMe riil\Nyobanyoba\Nyobanyoba\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\pf242\Downloads\GymMe riil\Nyobanyoba\Nyobanyoba\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\pf242\Downloads\GymMe riil\Nyobanyoba\Nyobanyoba\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\pf242\Downloads\GymMe riil\Nyobanyoba\Nyobanyoba\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\pf242\Downloads\GymMe riil\Nyobanyoba\Nyobanyoba\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\pf242\Downloads\GymMe riil\Nyobanyoba\Nyobanyoba\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\pf242\Downloads\GymMe riil\Nyobanyoba\Nyobanyoba\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\pf242\Downloads\GymMe riil\Nyobanyoba\Nyobanyoba\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\pf242\Downloads\GymMe riil\Nyobanyoba\Nyobanyoba\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\pf242\Downloads\GymMe riil\Nyobanyoba\Nyobanyoba\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\pf242\Downloads\GymMe riil\Nyobanyoba\Nyobanyoba\bin\stdole.dll
+C:\Users\pf242\Downloads\GymMe riil\Nyobanyoba\Nyobanyoba\bin\EntityFramework.xml
+C:\Users\pf242\Downloads\GymMe riil\Nyobanyoba\Nyobanyoba\bin\EntityFramework.SqlServer.xml
+C:\Users\pf242\Downloads\GymMe riil\Nyobanyoba\Nyobanyoba\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\pf242\Downloads\GymMe riil\Nyobanyoba\Nyobanyoba\obj\Debug\Nyobanyoba.csproj.AssemblyReference.cache
+C:\Users\pf242\Downloads\GymMe riil\Nyobanyoba\Nyobanyoba\obj\Debug\Nyobanyoba.csproj.CoreCompileInputs.cache
+C:\Users\pf242\Downloads\GymMe riil\Nyobanyoba\Nyobanyoba\obj\Debug\Nyobanyoba.csproj.Up2Date
+C:\Users\pf242\Downloads\GymMe riil\Nyobanyoba\Nyobanyoba\obj\Debug\Nyobanyoba.dll
+C:\Users\pf242\Downloads\GymMe riil\Nyobanyoba\Nyobanyoba\obj\Debug\Nyobanyoba.pdb
+C:\Users\pf242\Documents\KULIAHAN\Semester 4\Pattern Software Design\LAB\GymMe-Final\Nyobanyoba\Nyobanyoba\bin\Nyobanyoba.dll.config
+C:\Users\pf242\Documents\KULIAHAN\Semester 4\Pattern Software Design\LAB\GymMe-Final\Nyobanyoba\Nyobanyoba\bin\Nyobanyoba.dll
+C:\Users\pf242\Documents\KULIAHAN\Semester 4\Pattern Software Design\LAB\GymMe-Final\Nyobanyoba\Nyobanyoba\bin\Nyobanyoba.pdb
+C:\Users\pf242\Documents\KULIAHAN\Semester 4\Pattern Software Design\LAB\GymMe-Final\Nyobanyoba\Nyobanyoba\bin\roslyn\csc.exe
+C:\Users\pf242\Documents\KULIAHAN\Semester 4\Pattern Software Design\LAB\GymMe-Final\Nyobanyoba\Nyobanyoba\bin\roslyn\csc.exe.config
+C:\Users\pf242\Documents\KULIAHAN\Semester 4\Pattern Software Design\LAB\GymMe-Final\Nyobanyoba\Nyobanyoba\bin\roslyn\csc.rsp
+C:\Users\pf242\Documents\KULIAHAN\Semester 4\Pattern Software Design\LAB\GymMe-Final\Nyobanyoba\Nyobanyoba\bin\roslyn\csi.exe
+C:\Users\pf242\Documents\KULIAHAN\Semester 4\Pattern Software Design\LAB\GymMe-Final\Nyobanyoba\Nyobanyoba\bin\roslyn\csi.exe.config
+C:\Users\pf242\Documents\KULIAHAN\Semester 4\Pattern Software Design\LAB\GymMe-Final\Nyobanyoba\Nyobanyoba\bin\roslyn\csi.rsp
+C:\Users\pf242\Documents\KULIAHAN\Semester 4\Pattern Software Design\LAB\GymMe-Final\Nyobanyoba\Nyobanyoba\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\pf242\Documents\KULIAHAN\Semester 4\Pattern Software Design\LAB\GymMe-Final\Nyobanyoba\Nyobanyoba\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\pf242\Documents\KULIAHAN\Semester 4\Pattern Software Design\LAB\GymMe-Final\Nyobanyoba\Nyobanyoba\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\pf242\Documents\KULIAHAN\Semester 4\Pattern Software Design\LAB\GymMe-Final\Nyobanyoba\Nyobanyoba\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\pf242\Documents\KULIAHAN\Semester 4\Pattern Software Design\LAB\GymMe-Final\Nyobanyoba\Nyobanyoba\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\pf242\Documents\KULIAHAN\Semester 4\Pattern Software Design\LAB\GymMe-Final\Nyobanyoba\Nyobanyoba\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\pf242\Documents\KULIAHAN\Semester 4\Pattern Software Design\LAB\GymMe-Final\Nyobanyoba\Nyobanyoba\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\pf242\Documents\KULIAHAN\Semester 4\Pattern Software Design\LAB\GymMe-Final\Nyobanyoba\Nyobanyoba\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\pf242\Documents\KULIAHAN\Semester 4\Pattern Software Design\LAB\GymMe-Final\Nyobanyoba\Nyobanyoba\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\pf242\Documents\KULIAHAN\Semester 4\Pattern Software Design\LAB\GymMe-Final\Nyobanyoba\Nyobanyoba\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\pf242\Documents\KULIAHAN\Semester 4\Pattern Software Design\LAB\GymMe-Final\Nyobanyoba\Nyobanyoba\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\pf242\Documents\KULIAHAN\Semester 4\Pattern Software Design\LAB\GymMe-Final\Nyobanyoba\Nyobanyoba\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\pf242\Documents\KULIAHAN\Semester 4\Pattern Software Design\LAB\GymMe-Final\Nyobanyoba\Nyobanyoba\bin\roslyn\System.AppContext.dll
+C:\Users\pf242\Documents\KULIAHAN\Semester 4\Pattern Software Design\LAB\GymMe-Final\Nyobanyoba\Nyobanyoba\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\pf242\Documents\KULIAHAN\Semester 4\Pattern Software Design\LAB\GymMe-Final\Nyobanyoba\Nyobanyoba\bin\roslyn\System.Console.dll
+C:\Users\pf242\Documents\KULIAHAN\Semester 4\Pattern Software Design\LAB\GymMe-Final\Nyobanyoba\Nyobanyoba\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\pf242\Documents\KULIAHAN\Semester 4\Pattern Software Design\LAB\GymMe-Final\Nyobanyoba\Nyobanyoba\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\pf242\Documents\KULIAHAN\Semester 4\Pattern Software Design\LAB\GymMe-Final\Nyobanyoba\Nyobanyoba\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\pf242\Documents\KULIAHAN\Semester 4\Pattern Software Design\LAB\GymMe-Final\Nyobanyoba\Nyobanyoba\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\pf242\Documents\KULIAHAN\Semester 4\Pattern Software Design\LAB\GymMe-Final\Nyobanyoba\Nyobanyoba\bin\roslyn\System.IO.Compression.dll
+C:\Users\pf242\Documents\KULIAHAN\Semester 4\Pattern Software Design\LAB\GymMe-Final\Nyobanyoba\Nyobanyoba\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\pf242\Documents\KULIAHAN\Semester 4\Pattern Software Design\LAB\GymMe-Final\Nyobanyoba\Nyobanyoba\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\pf242\Documents\KULIAHAN\Semester 4\Pattern Software Design\LAB\GymMe-Final\Nyobanyoba\Nyobanyoba\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\pf242\Documents\KULIAHAN\Semester 4\Pattern Software Design\LAB\GymMe-Final\Nyobanyoba\Nyobanyoba\bin\roslyn\System.Net.Http.dll
+C:\Users\pf242\Documents\KULIAHAN\Semester 4\Pattern Software Design\LAB\GymMe-Final\Nyobanyoba\Nyobanyoba\bin\roslyn\System.Net.Sockets.dll
+C:\Users\pf242\Documents\KULIAHAN\Semester 4\Pattern Software Design\LAB\GymMe-Final\Nyobanyoba\Nyobanyoba\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\pf242\Documents\KULIAHAN\Semester 4\Pattern Software Design\LAB\GymMe-Final\Nyobanyoba\Nyobanyoba\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\pf242\Documents\KULIAHAN\Semester 4\Pattern Software Design\LAB\GymMe-Final\Nyobanyoba\Nyobanyoba\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\pf242\Documents\KULIAHAN\Semester 4\Pattern Software Design\LAB\GymMe-Final\Nyobanyoba\Nyobanyoba\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\pf242\Documents\KULIAHAN\Semester 4\Pattern Software Design\LAB\GymMe-Final\Nyobanyoba\Nyobanyoba\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\pf242\Documents\KULIAHAN\Semester 4\Pattern Software Design\LAB\GymMe-Final\Nyobanyoba\Nyobanyoba\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\pf242\Documents\KULIAHAN\Semester 4\Pattern Software Design\LAB\GymMe-Final\Nyobanyoba\Nyobanyoba\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\pf242\Documents\KULIAHAN\Semester 4\Pattern Software Design\LAB\GymMe-Final\Nyobanyoba\Nyobanyoba\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\pf242\Documents\KULIAHAN\Semester 4\Pattern Software Design\LAB\GymMe-Final\Nyobanyoba\Nyobanyoba\bin\roslyn\System.ValueTuple.dll
+C:\Users\pf242\Documents\KULIAHAN\Semester 4\Pattern Software Design\LAB\GymMe-Final\Nyobanyoba\Nyobanyoba\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\pf242\Documents\KULIAHAN\Semester 4\Pattern Software Design\LAB\GymMe-Final\Nyobanyoba\Nyobanyoba\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\pf242\Documents\KULIAHAN\Semester 4\Pattern Software Design\LAB\GymMe-Final\Nyobanyoba\Nyobanyoba\bin\roslyn\System.Xml.XPath.dll
+C:\Users\pf242\Documents\KULIAHAN\Semester 4\Pattern Software Design\LAB\GymMe-Final\Nyobanyoba\Nyobanyoba\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\pf242\Documents\KULIAHAN\Semester 4\Pattern Software Design\LAB\GymMe-Final\Nyobanyoba\Nyobanyoba\bin\roslyn\vbc.exe
+C:\Users\pf242\Documents\KULIAHAN\Semester 4\Pattern Software Design\LAB\GymMe-Final\Nyobanyoba\Nyobanyoba\bin\roslyn\vbc.exe.config
+C:\Users\pf242\Documents\KULIAHAN\Semester 4\Pattern Software Design\LAB\GymMe-Final\Nyobanyoba\Nyobanyoba\bin\roslyn\vbc.rsp
+C:\Users\pf242\Documents\KULIAHAN\Semester 4\Pattern Software Design\LAB\GymMe-Final\Nyobanyoba\Nyobanyoba\bin\roslyn\VBCSCompiler.exe
+C:\Users\pf242\Documents\KULIAHAN\Semester 4\Pattern Software Design\LAB\GymMe-Final\Nyobanyoba\Nyobanyoba\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\pf242\Documents\KULIAHAN\Semester 4\Pattern Software Design\LAB\GymMe-Final\Nyobanyoba\Nyobanyoba\bin\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\pf242\Documents\KULIAHAN\Semester 4\Pattern Software Design\LAB\GymMe-Final\Nyobanyoba\Nyobanyoba\bin\CrystalDecisions.ReportSource.dll
+C:\Users\pf242\Documents\KULIAHAN\Semester 4\Pattern Software Design\LAB\GymMe-Final\Nyobanyoba\Nyobanyoba\bin\CrystalDecisions.Shared.dll
+C:\Users\pf242\Documents\KULIAHAN\Semester 4\Pattern Software Design\LAB\GymMe-Final\Nyobanyoba\Nyobanyoba\bin\CrystalDecisions.Web.dll
+C:\Users\pf242\Documents\KULIAHAN\Semester 4\Pattern Software Design\LAB\GymMe-Final\Nyobanyoba\Nyobanyoba\bin\EntityFramework.dll
+C:\Users\pf242\Documents\KULIAHAN\Semester 4\Pattern Software Design\LAB\GymMe-Final\Nyobanyoba\Nyobanyoba\bin\EntityFramework.SqlServer.dll
+C:\Users\pf242\Documents\KULIAHAN\Semester 4\Pattern Software Design\LAB\GymMe-Final\Nyobanyoba\Nyobanyoba\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\pf242\Documents\KULIAHAN\Semester 4\Pattern Software Design\LAB\GymMe-Final\Nyobanyoba\Nyobanyoba\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\pf242\Documents\KULIAHAN\Semester 4\Pattern Software Design\LAB\GymMe-Final\Nyobanyoba\Nyobanyoba\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\pf242\Documents\KULIAHAN\Semester 4\Pattern Software Design\LAB\GymMe-Final\Nyobanyoba\Nyobanyoba\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\pf242\Documents\KULIAHAN\Semester 4\Pattern Software Design\LAB\GymMe-Final\Nyobanyoba\Nyobanyoba\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\pf242\Documents\KULIAHAN\Semester 4\Pattern Software Design\LAB\GymMe-Final\Nyobanyoba\Nyobanyoba\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\pf242\Documents\KULIAHAN\Semester 4\Pattern Software Design\LAB\GymMe-Final\Nyobanyoba\Nyobanyoba\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\pf242\Documents\KULIAHAN\Semester 4\Pattern Software Design\LAB\GymMe-Final\Nyobanyoba\Nyobanyoba\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\pf242\Documents\KULIAHAN\Semester 4\Pattern Software Design\LAB\GymMe-Final\Nyobanyoba\Nyobanyoba\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\pf242\Documents\KULIAHAN\Semester 4\Pattern Software Design\LAB\GymMe-Final\Nyobanyoba\Nyobanyoba\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\pf242\Documents\KULIAHAN\Semester 4\Pattern Software Design\LAB\GymMe-Final\Nyobanyoba\Nyobanyoba\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\pf242\Documents\KULIAHAN\Semester 4\Pattern Software Design\LAB\GymMe-Final\Nyobanyoba\Nyobanyoba\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\pf242\Documents\KULIAHAN\Semester 4\Pattern Software Design\LAB\GymMe-Final\Nyobanyoba\Nyobanyoba\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\pf242\Documents\KULIAHAN\Semester 4\Pattern Software Design\LAB\GymMe-Final\Nyobanyoba\Nyobanyoba\bin\stdole.dll
+C:\Users\pf242\Documents\KULIAHAN\Semester 4\Pattern Software Design\LAB\GymMe-Final\Nyobanyoba\Nyobanyoba\bin\EntityFramework.xml
+C:\Users\pf242\Documents\KULIAHAN\Semester 4\Pattern Software Design\LAB\GymMe-Final\Nyobanyoba\Nyobanyoba\bin\EntityFramework.SqlServer.xml
+C:\Users\pf242\Documents\KULIAHAN\Semester 4\Pattern Software Design\LAB\GymMe-Final\Nyobanyoba\Nyobanyoba\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\pf242\Documents\KULIAHAN\Semester 4\Pattern Software Design\LAB\GymMe-Final\Nyobanyoba\Nyobanyoba\obj\Debug\Nyobanyoba.csproj.AssemblyReference.cache
+C:\Users\pf242\Documents\KULIAHAN\Semester 4\Pattern Software Design\LAB\GymMe-Final\Nyobanyoba\Nyobanyoba\obj\Debug\Nyobanyoba.csproj.CoreCompileInputs.cache
+C:\Users\pf242\Documents\KULIAHAN\Semester 4\Pattern Software Design\LAB\GymMe-Final\Nyobanyoba\Nyobanyoba\obj\Debug\Nyobanyoba.csproj.Up2Date
+C:\Users\pf242\Documents\KULIAHAN\Semester 4\Pattern Software Design\LAB\GymMe-Final\Nyobanyoba\Nyobanyoba\obj\Debug\Nyobanyoba.dll
+C:\Users\pf242\Documents\KULIAHAN\Semester 4\Pattern Software Design\LAB\GymMe-Final\Nyobanyoba\Nyobanyoba\obj\Debug\Nyobanyoba.pdb

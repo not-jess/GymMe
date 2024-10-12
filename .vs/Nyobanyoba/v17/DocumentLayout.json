@@ -1,0 +1,552 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pf242\\Downloads\\Nyobanyoba (1)\\Nyobanyoba (1)\\Nyobanyoba\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_PF242_DOWNLOADS_NYOBANYOBA__1__NYOBANYOBA__1__NYOBANYOBA_NYOBANYOBA_APP_DATA_DATABASE1.MDF/True/SqlTable/dbo.TransactionHeader.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B34D660-6372-428F-843E-C8EFDD3F90C7}|Nyobanyoba\\Nyobanyoba.csproj|c:\\users\\pf242\\downloads\\nyobanyoba (1)\\nyobanyoba (1)\\nyobanyoba\\nyobanyoba\\view\\admin\\transactionreportadmin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{2B34D660-6372-428F-843E-C8EFDD3F90C7}|Nyobanyoba\\Nyobanyoba.csproj|solutionrelative:nyobanyoba\\view\\admin\\transactionreportadmin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B34D660-6372-428F-843E-C8EFDD3F90C7}|Nyobanyoba\\Nyobanyoba.csproj|C:\\Users\\pf242\\Downloads\\Nyobanyoba (1)\\Nyobanyoba (1)\\Nyobanyoba\\nyobanyoba\\view\\admin\\transactionreportadmin.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B34D660-6372-428F-843E-C8EFDD3F90C7}|Nyobanyoba\\Nyobanyoba.csproj|solutionrelative:nyobanyoba\\view\\admin\\transactionreportadmin.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B34D660-6372-428F-843E-C8EFDD3F90C7}|Nyobanyoba\\Nyobanyoba.csproj|C:\\Users\\pf242\\Downloads\\Nyobanyoba (1)\\Nyobanyoba (1)\\Nyobanyoba\\nyobanyoba\\view\\registerpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{2B34D660-6372-428F-843E-C8EFDD3F90C7}|Nyobanyoba\\Nyobanyoba.csproj|solutionrelative:nyobanyoba\\view\\registerpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B34D660-6372-428F-843E-C8EFDD3F90C7}|Nyobanyoba\\Nyobanyoba.csproj|C:\\Users\\pf242\\Downloads\\Nyobanyoba (1)\\Nyobanyoba (1)\\Nyobanyoba\\nyobanyoba\\view\\loginpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{2B34D660-6372-428F-843E-C8EFDD3F90C7}|Nyobanyoba\\Nyobanyoba.csproj|solutionrelative:nyobanyoba\\view\\loginpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B34D660-6372-428F-843E-C8EFDD3F90C7}|Nyobanyoba\\Nyobanyoba.csproj|C:\\Users\\pf242\\Downloads\\Nyobanyoba (1)\\Nyobanyoba (1)\\Nyobanyoba\\nyobanyoba\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B34D660-6372-428F-843E-C8EFDD3F90C7}|Nyobanyoba\\Nyobanyoba.csproj|solutionrelative:nyobanyoba\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B34D660-6372-428F-843E-C8EFDD3F90C7}|Nyobanyoba\\Nyobanyoba.csproj|C:\\Users\\pf242\\Downloads\\Nyobanyoba (1)\\Nyobanyoba (1)\\Nyobanyoba\\nyobanyoba\\view\\admin\\orderqueueadmin.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B34D660-6372-428F-843E-C8EFDD3F90C7}|Nyobanyoba\\Nyobanyoba.csproj|solutionrelative:nyobanyoba\\view\\admin\\orderqueueadmin.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B34D660-6372-428F-843E-C8EFDD3F90C7}|Nyobanyoba\\Nyobanyoba.csproj|C:\\Users\\pf242\\Downloads\\Nyobanyoba (1)\\Nyobanyoba (1)\\Nyobanyoba\\nyobanyoba\\view\\admin\\orderqueueadmin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{2B34D660-6372-428F-843E-C8EFDD3F90C7}|Nyobanyoba\\Nyobanyoba.csproj|solutionrelative:nyobanyoba\\view\\admin\\orderqueueadmin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B34D660-6372-428F-843E-C8EFDD3F90C7}|Nyobanyoba\\Nyobanyoba.csproj|C:\\Users\\pf242\\Downloads\\Nyobanyoba (1)\\Nyobanyoba (1)\\Nyobanyoba\\nyobanyoba\\report\\transactionreport.rpt||{C0EF7560-990E-4D61-B970-65A6096B6866}",
+      "RelativeMoniker": "D:0:0:{2B34D660-6372-428F-843E-C8EFDD3F90C7}|Nyobanyoba\\Nyobanyoba.csproj|solutionrelative:nyobanyoba\\report\\transactionreport.rpt||{C0EF7560-990E-4D61-B970-65A6096B6866}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B34D660-6372-428F-843E-C8EFDD3F90C7}|Nyobanyoba\\Nyobanyoba.csproj|C:\\Users\\pf242\\Downloads\\Nyobanyoba (1)\\Nyobanyoba (1)\\Nyobanyoba\\nyobanyoba\\view\\transactiondetail.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{2B34D660-6372-428F-843E-C8EFDD3F90C7}|Nyobanyoba\\Nyobanyoba.csproj|solutionrelative:nyobanyoba\\view\\transactiondetail.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__MATA_KULIAH_SMT_4_LAB_PSD_DELO_FINAL_NYOBANYOBA_NYOBANYOBA_APP_DATA_DATABASE1.MDF/True/SqlTable/dbo.MsUser.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B34D660-6372-428F-843E-C8EFDD3F90C7}|Nyobanyoba\\Nyobanyoba.csproj|C:\\Users\\pf242\\Downloads\\Nyobanyoba (1)\\Nyobanyoba (1)\\Nyobanyoba\\nyobanyoba\\view\\admin\\homepageadmin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{2B34D660-6372-428F-843E-C8EFDD3F90C7}|Nyobanyoba\\Nyobanyoba.csproj|solutionrelative:nyobanyoba\\view\\admin\\homepageadmin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B34D660-6372-428F-843E-C8EFDD3F90C7}|Nyobanyoba\\Nyobanyoba.csproj|C:\\Users\\pf242\\Downloads\\Nyobanyoba (1)\\Nyobanyoba (1)\\Nyobanyoba\\nyobanyoba\\dataset\\dataset1.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}",
+      "RelativeMoniker": "D:0:0:{2B34D660-6372-428F-843E-C8EFDD3F90C7}|Nyobanyoba\\Nyobanyoba.csproj|solutionrelative:nyobanyoba\\dataset\\dataset1.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B34D660-6372-428F-843E-C8EFDD3F90C7}|Nyobanyoba\\Nyobanyoba.csproj|C:\\Users\\pf242\\Downloads\\Nyobanyoba (1)\\Nyobanyoba (1)\\Nyobanyoba\\nyobanyoba\\view\\customer\\profilecustomer.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B34D660-6372-428F-843E-C8EFDD3F90C7}|Nyobanyoba\\Nyobanyoba.csproj|solutionrelative:nyobanyoba\\view\\customer\\profilecustomer.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B34D660-6372-428F-843E-C8EFDD3F90C7}|Nyobanyoba\\Nyobanyoba.csproj|C:\\Users\\pf242\\Downloads\\Nyobanyoba (1)\\Nyobanyoba (1)\\Nyobanyoba\\nyobanyoba\\handler\\userhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B34D660-6372-428F-843E-C8EFDD3F90C7}|Nyobanyoba\\Nyobanyoba.csproj|solutionrelative:nyobanyoba\\handler\\userhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B34D660-6372-428F-843E-C8EFDD3F90C7}|Nyobanyoba\\Nyobanyoba.csproj|C:\\Users\\pf242\\Downloads\\Nyobanyoba (1)\\Nyobanyoba (1)\\Nyobanyoba\\nyobanyoba\\controller\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B34D660-6372-428F-843E-C8EFDD3F90C7}|Nyobanyoba\\Nyobanyoba.csproj|solutionrelative:nyobanyoba\\controller\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B34D660-6372-428F-843E-C8EFDD3F90C7}|Nyobanyoba\\Nyobanyoba.csproj|C:\\Users\\pf242\\Downloads\\Nyobanyoba (1)\\Nyobanyoba (1)\\Nyobanyoba\\nyobanyoba\\view\\customer\\profilecustomer.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{2B34D660-6372-428F-843E-C8EFDD3F90C7}|Nyobanyoba\\Nyobanyoba.csproj|solutionrelative:nyobanyoba\\view\\customer\\profilecustomer.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B34D660-6372-428F-843E-C8EFDD3F90C7}|Nyobanyoba\\Nyobanyoba.csproj|C:\\Users\\pf242\\Downloads\\Nyobanyoba (1)\\Nyobanyoba (1)\\Nyobanyoba\\nyobanyoba\\view\\loginpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B34D660-6372-428F-843E-C8EFDD3F90C7}|Nyobanyoba\\Nyobanyoba.csproj|solutionrelative:nyobanyoba\\view\\loginpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B34D660-6372-428F-843E-C8EFDD3F90C7}|Nyobanyoba\\Nyobanyoba.csproj|C:\\Users\\pf242\\Downloads\\Nyobanyoba (1)\\Nyobanyoba (1)\\Nyobanyoba\\nyobanyoba\\view\\customer\\navbarcustomer.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B34D660-6372-428F-843E-C8EFDD3F90C7}|Nyobanyoba\\Nyobanyoba.csproj|solutionrelative:nyobanyoba\\view\\customer\\navbarcustomer.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B34D660-6372-428F-843E-C8EFDD3F90C7}|Nyobanyoba\\Nyobanyoba.csproj|C:\\Users\\pf242\\Downloads\\Nyobanyoba (1)\\Nyobanyoba (1)\\Nyobanyoba\\nyobanyoba\\view\\customer\\navbarcustomer.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{2B34D660-6372-428F-843E-C8EFDD3F90C7}|Nyobanyoba\\Nyobanyoba.csproj|solutionrelative:nyobanyoba\\view\\customer\\navbarcustomer.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B34D660-6372-428F-843E-C8EFDD3F90C7}|Nyobanyoba\\Nyobanyoba.csproj|C:\\Users\\pf242\\Downloads\\Nyobanyoba (1)\\Nyobanyoba (1)\\Nyobanyoba\\nyobanyoba\\controller\\supplementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B34D660-6372-428F-843E-C8EFDD3F90C7}|Nyobanyoba\\Nyobanyoba.csproj|solutionrelative:nyobanyoba\\controller\\supplementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B34D660-6372-428F-843E-C8EFDD3F90C7}|Nyobanyoba\\Nyobanyoba.csproj|C:\\Users\\pf242\\Downloads\\Nyobanyoba (1)\\Nyobanyoba (1)\\Nyobanyoba\\nyobanyoba\\handler\\supplementhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B34D660-6372-428F-843E-C8EFDD3F90C7}|Nyobanyoba\\Nyobanyoba.csproj|solutionrelative:nyobanyoba\\handler\\supplementhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B34D660-6372-428F-843E-C8EFDD3F90C7}|Nyobanyoba\\Nyobanyoba.csproj|C:\\Users\\pf242\\Downloads\\Nyobanyoba (1)\\Nyobanyoba (1)\\Nyobanyoba\\nyobanyoba\\handler\\supplementtypehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B34D660-6372-428F-843E-C8EFDD3F90C7}|Nyobanyoba\\Nyobanyoba.csproj|solutionrelative:nyobanyoba\\handler\\supplementtypehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B34D660-6372-428F-843E-C8EFDD3F90C7}|Nyobanyoba\\Nyobanyoba.csproj|C:\\Users\\pf242\\Downloads\\Nyobanyoba (1)\\Nyobanyoba (1)\\Nyobanyoba\\nyobanyoba\\repository\\supplementrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B34D660-6372-428F-843E-C8EFDD3F90C7}|Nyobanyoba\\Nyobanyoba.csproj|solutionrelative:nyobanyoba\\repository\\supplementrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B34D660-6372-428F-843E-C8EFDD3F90C7}|Nyobanyoba\\Nyobanyoba.csproj|C:\\Users\\pf242\\Downloads\\Nyobanyoba (1)\\Nyobanyoba (1)\\Nyobanyoba\\nyobanyoba\\view\\admin\\updatesupplementadmin.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B34D660-6372-428F-843E-C8EFDD3F90C7}|Nyobanyoba\\Nyobanyoba.csproj|solutionrelative:nyobanyoba\\view\\admin\\updatesupplementadmin.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B34D660-6372-428F-843E-C8EFDD3F90C7}|Nyobanyoba\\Nyobanyoba.csproj|C:\\Users\\pf242\\Downloads\\Nyobanyoba (1)\\Nyobanyoba (1)\\Nyobanyoba\\nyobanyoba\\view\\admin\\insertsupplementadmin.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B34D660-6372-428F-843E-C8EFDD3F90C7}|Nyobanyoba\\Nyobanyoba.csproj|solutionrelative:nyobanyoba\\view\\admin\\insertsupplementadmin.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B34D660-6372-428F-843E-C8EFDD3F90C7}|Nyobanyoba\\Nyobanyoba.csproj|C:\\Users\\pf242\\Downloads\\Nyobanyoba (1)\\Nyobanyoba (1)\\Nyobanyoba\\nyobanyoba\\view\\admin\\managesupplementadmin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{2B34D660-6372-428F-843E-C8EFDD3F90C7}|Nyobanyoba\\Nyobanyoba.csproj|solutionrelative:nyobanyoba\\view\\admin\\managesupplementadmin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B34D660-6372-428F-843E-C8EFDD3F90C7}|Nyobanyoba\\Nyobanyoba.csproj|C:\\Users\\pf242\\Downloads\\Nyobanyoba (1)\\Nyobanyoba (1)\\Nyobanyoba\\nyobanyoba\\view\\admin\\updatesupplementadmin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{2B34D660-6372-428F-843E-C8EFDD3F90C7}|Nyobanyoba\\Nyobanyoba.csproj|solutionrelative:nyobanyoba\\view\\admin\\updatesupplementadmin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B34D660-6372-428F-843E-C8EFDD3F90C7}|Nyobanyoba\\Nyobanyoba.csproj|C:\\Users\\pf242\\Downloads\\Nyobanyoba (1)\\Nyobanyoba (1)\\Nyobanyoba\\nyobanyoba\\view\\admin\\navbaradmin.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B34D660-6372-428F-843E-C8EFDD3F90C7}|Nyobanyoba\\Nyobanyoba.csproj|solutionrelative:nyobanyoba\\view\\admin\\navbaradmin.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B34D660-6372-428F-843E-C8EFDD3F90C7}|Nyobanyoba\\Nyobanyoba.csproj|C:\\Users\\pf242\\Downloads\\Nyobanyoba (1)\\Nyobanyoba (1)\\Nyobanyoba\\nyobanyoba\\view\\admin\\navbaradmin.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{2B34D660-6372-428F-843E-C8EFDD3F90C7}|Nyobanyoba\\Nyobanyoba.csproj|solutionrelative:nyobanyoba\\view\\admin\\navbaradmin.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B34D660-6372-428F-843E-C8EFDD3F90C7}|Nyobanyoba\\Nyobanyoba.csproj|C:\\Users\\pf242\\Downloads\\Nyobanyoba (1)\\Nyobanyoba (1)\\Nyobanyoba\\nyobanyoba\\view\\admin\\managesupplementadmin.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B34D660-6372-428F-843E-C8EFDD3F90C7}|Nyobanyoba\\Nyobanyoba.csproj|solutionrelative:nyobanyoba\\view\\admin\\managesupplementadmin.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B34D660-6372-428F-843E-C8EFDD3F90C7}|Nyobanyoba\\Nyobanyoba.csproj|C:\\Users\\pf242\\Downloads\\Nyobanyoba (1)\\Nyobanyoba (1)\\Nyobanyoba\\nyobanyoba\\view\\admin\\insertsupplementadmin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{2B34D660-6372-428F-843E-C8EFDD3F90C7}|Nyobanyoba\\Nyobanyoba.csproj|solutionrelative:nyobanyoba\\view\\admin\\insertsupplementadmin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B34D660-6372-428F-843E-C8EFDD3F90C7}|Nyobanyoba\\Nyobanyoba.csproj|C:\\Users\\pf242\\Downloads\\Nyobanyoba (1)\\Nyobanyoba (1)\\Nyobanyoba\\nyobanyoba\\view\\registerpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B34D660-6372-428F-843E-C8EFDD3F90C7}|Nyobanyoba\\Nyobanyoba.csproj|solutionrelative:nyobanyoba\\view\\registerpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B34D660-6372-428F-843E-C8EFDD3F90C7}|Nyobanyoba\\Nyobanyoba.csproj|C:\\Users\\pf242\\Downloads\\Nyobanyoba (1)\\Nyobanyoba (1)\\Nyobanyoba\\nyobanyoba\\factory\\userfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B34D660-6372-428F-843E-C8EFDD3F90C7}|Nyobanyoba\\Nyobanyoba.csproj|solutionrelative:nyobanyoba\\factory\\userfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 243,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "dbo.TransactionHeader [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_PF242_DOWNLOADS_NYOBANYOBA__1__NYOBANYOBA__1__NYOBANYOBA_NYOBANYOBA_APP_DATA_DATABASE1.MDF/True/SqlTable/dbo.TransactionHeader.sql",
+              "ToolTip": "dbo.TransactionHeader [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-06-12T06:29:38.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\pf242\\Downloads\\Nyobanyoba (1)\\Nyobanyoba (1)\\Nyobanyoba\\Nyobanyoba\\Repository\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Nyobanyoba\\Repository\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\pf242\\Downloads\\Nyobanyoba (1)\\Nyobanyoba (1)\\Nyobanyoba\\Nyobanyoba\\Repository\\UserRepository.cs",
+              "RelativeToolTip": "Nyobanyoba\\Repository\\UserRepository.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwCIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T07:36:24.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginPage.aspx",
+              "DocumentMoniker": "C:\\Users\\pf242\\Downloads\\Nyobanyoba (1)\\Nyobanyoba (1)\\Nyobanyoba\\Nyobanyoba\\View\\LoginPage.aspx",
+              "RelativeDocumentMoniker": "Nyobanyoba\\View\\LoginPage.aspx",
+              "ToolTip": "C:\\Users\\pf242\\Downloads\\Nyobanyoba (1)\\Nyobanyoba (1)\\Nyobanyoba\\Nyobanyoba\\View\\LoginPage.aspx",
+              "RelativeToolTip": "Nyobanyoba\\View\\LoginPage.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-05T07:34:32.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RegisterPage.aspx",
+              "DocumentMoniker": "C:\\Users\\pf242\\Downloads\\Nyobanyoba (1)\\Nyobanyoba (1)\\Nyobanyoba\\Nyobanyoba\\View\\RegisterPage.aspx",
+              "RelativeDocumentMoniker": "Nyobanyoba\\View\\RegisterPage.aspx",
+              "ToolTip": "C:\\Users\\pf242\\Downloads\\Nyobanyoba (1)\\Nyobanyoba (1)\\Nyobanyoba\\Nyobanyoba\\View\\RegisterPage.aspx",
+              "RelativeToolTip": "Nyobanyoba\\View\\RegisterPage.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-05T07:47:31.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TransactionReport.rpt",
+              "DocumentMoniker": "C:\\Users\\pf242\\Downloads\\Nyobanyoba (1)\\Nyobanyoba (1)\\Nyobanyoba\\Nyobanyoba\\Report\\TransactionReport.rpt",
+              "RelativeDocumentMoniker": "Nyobanyoba\\Report\\TransactionReport.rpt",
+              "ToolTip": "C:\\Users\\pf242\\Downloads\\Nyobanyoba (1)\\Nyobanyoba (1)\\Nyobanyoba\\Nyobanyoba\\Report\\TransactionReport.rpt",
+              "RelativeToolTip": "Nyobanyoba\\Report\\TransactionReport.rpt",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAASWSURBVDhPXVRLb1tFGD0zc1/2vX7GqfN0aOuWCkFLHyF0UZUFXRSx6AJ\u002BABv2/ALaP8ECsWANCxYFIcGiFVIpgUaij6hVmripXcexkzi242vf18ww16Qh4ZPm6urO/c5833znHIL9uHNHautYd7o7u\u002BOmBp0RcrB3JDgJhQz3Somt9vXr1wP1m4QQk2p9qHY/f51EvvrxUVYj4jwBuZEwWJERyvb3DoILiZCLHT/gTyDI3WRSVm5/s\u002BJ9/92nJqScBudnRoBSSvLtT8tFapBrpka/mBpz5hI60wilI6DX4XohOn2/13ODZ1LIXymVv4SDcP3\u002BLHe/Tl\u002BgKMPQ9v8Fjxh1HKbblubMjDtpO2FoVHUt9/fVqdjt\u002B/GbLaS0hJCmH0aBtOhvFyvptS\u002BXyd6tW8T/r4SkWqpJSok6hiEGU4mIuFCLIxRctSzAGGFJS8ulbf0sZeSGyrgS6P0S3lg3YpijPR0KhaXuGYgU0EAM0eN7CIgPAR4fwgY\u002BdyTHOTWSj9UEL02N7TgqjRwBjKfA9scUz1gSBUb6qMsanvCHqJE1CLuPQt7AZN5mk2N2KmObk46l56We1FVGXKEkN2\u002BCaH7cpMIZPVR1CswjQ2zLFp7zZ1j072Ep\u002Bh01tqJA95DN6MinLWabumnoRE8rnsWF0JlPatbP7UVnuSmc7pAkIgEaSQFXuGjxJqr8Jdai51j2HuHB8D7\u002BDhbxUqzAYx0wXVWk2tIOsYGOTbvFSMvMVTbJiVctOdl1YXQ9n9S9Jla9Naz5q9j0m9jxtrHWX8WD7iIWu/ewOlxRd9tXd6ou\u002BlDQS\u002BX0qXNz1qWUzS63\u002BvStSlPYj2suedho4WmnhnW3hp3hFgZ7A/SaXWy\u002B2sD6ZgUNtw5fDSse0uGgl0\u002BbZP6Uwc5MG0Y2SY3OQJKHFY7HzxlWqxQb7RC7fh9\u002B1wdtUGS3sigFJcyZc3A0Bxo5KihaniCNk0WjMleglYkMbeZsLQh9JndbGWy/KqLTOIZhx4HuOZhBCe/a5zGfm0c5VYajq\u002B/sf4BnZ0l1tiCfFmzyeDqPF6Vx4pcKOlI0A3RmETVOg22VMYFTuFhcwJXjV3Fh5iImnSIszQRTU9EOkY/mcrle88X4liJgPWWR1lSOBu\u002BUTHliPIkcGYfVKSOzfQFvm1dw9fg1vHdyAaXCLEzdUGBEKYoqdelKaLHUFGBsP3c/UCojUcR0Ehk6lfmUjkLaQC5pIa/nUNLexDlnAeX0GYwlCkqaMVgMFAOO6PevdFWMir2p2D0YAkFApR8qV1EeEEQEuuolmzBRSDhIs4wiqIUwAIZBhIEfIQj5SO8HNFRyPeg\u002BCC0xCGTQ88hes8v9QDlC2pLRsZQYZi2\u002BG/l8s9Pz6q3OoNZsu9VWe1Dd7XlV5Y8bSlc9wqIRf0b1xn74w5/1vC7ogqD0s4CzedflY54XiTDyt4lwqwkabWbTZi\u002BVsnylNaFallGkCuHhtjKQPyDFXx\u002B9f7p34IeXS1Oex7sblLElLsWEOxBG3\u002BVRtx\u002BuNprBnZ3t/lK7HdUnsk7v2EQh4Mq\u002BE0lbitAVkZHzlm5PeQDwD6ATL4Svop3vAAAAAElFTkSuQmCC",
+              "WhenOpened": "2024-06-10T17:48:11.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TransactionReportAdmin.aspx",
+              "DocumentMoniker": "C:\\Users\\pf242\\Downloads\\Nyobanyoba (1)\\Nyobanyoba (1)\\Nyobanyoba\\Nyobanyoba\\View\\Admin\\TransactionReportAdmin.aspx",
+              "RelativeDocumentMoniker": "Nyobanyoba\\View\\Admin\\TransactionReportAdmin.aspx",
+              "ToolTip": "C:\\Users\\pf242\\Downloads\\Nyobanyoba (1)\\Nyobanyoba (1)\\Nyobanyoba\\Nyobanyoba\\View\\Admin\\TransactionReportAdmin.aspx",
+              "RelativeToolTip": "Nyobanyoba\\View\\Admin\\TransactionReportAdmin.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-10T00:31:16.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OrderQueueAdmin.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\pf242\\Downloads\\Nyobanyoba (1)\\Nyobanyoba (1)\\Nyobanyoba\\Nyobanyoba\\View\\Admin\\OrderQueueAdmin.aspx.cs",
+              "RelativeDocumentMoniker": "Nyobanyoba\\View\\Admin\\OrderQueueAdmin.aspx.cs",
+              "ToolTip": "C:\\Users\\pf242\\Downloads\\Nyobanyoba (1)\\Nyobanyoba (1)\\Nyobanyoba\\Nyobanyoba\\View\\Admin\\OrderQueueAdmin.aspx.cs",
+              "RelativeToolTip": "Nyobanyoba\\View\\Admin\\OrderQueueAdmin.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T17:49:57.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TransactionReportAdmin.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\pf242\\Downloads\\Nyobanyoba (1)\\Nyobanyoba (1)\\Nyobanyoba\\Nyobanyoba\\View\\Admin\\TransactionReportAdmin.aspx.cs",
+              "RelativeDocumentMoniker": "Nyobanyoba\\View\\Admin\\TransactionReportAdmin.aspx.cs",
+              "ToolTip": "C:\\Users\\pf242\\Downloads\\Nyobanyoba (1)\\Nyobanyoba (1)\\Nyobanyoba\\Nyobanyoba\\View\\Admin\\TransactionReportAdmin.aspx.cs",
+              "RelativeToolTip": "Nyobanyoba\\View\\Admin\\TransactionReportAdmin.aspx.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T13:36:19.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OrderQueueAdmin.aspx",
+              "DocumentMoniker": "C:\\Users\\pf242\\Downloads\\Nyobanyoba (1)\\Nyobanyoba (1)\\Nyobanyoba\\Nyobanyoba\\View\\Admin\\OrderQueueAdmin.aspx",
+              "RelativeDocumentMoniker": "Nyobanyoba\\View\\Admin\\OrderQueueAdmin.aspx",
+              "ToolTip": "C:\\Users\\pf242\\Downloads\\Nyobanyoba (1)\\Nyobanyoba (1)\\Nyobanyoba\\Nyobanyoba\\View\\Admin\\OrderQueueAdmin.aspx",
+              "RelativeToolTip": "Nyobanyoba\\View\\Admin\\OrderQueueAdmin.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-10T17:49:52.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TransactionDetail.aspx",
+              "DocumentMoniker": "C:\\Users\\pf242\\Downloads\\Nyobanyoba (1)\\Nyobanyoba (1)\\Nyobanyoba\\Nyobanyoba\\View\\TransactionDetail.aspx",
+              "RelativeDocumentMoniker": "Nyobanyoba\\View\\TransactionDetail.aspx",
+              "ToolTip": "C:\\Users\\pf242\\Downloads\\Nyobanyoba (1)\\Nyobanyoba (1)\\Nyobanyoba\\Nyobanyoba\\View\\TransactionDetail.aspx",
+              "RelativeToolTip": "Nyobanyoba\\View\\TransactionDetail.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-10T17:48:04.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HomePageAdmin.aspx",
+              "DocumentMoniker": "C:\\Users\\pf242\\Downloads\\Nyobanyoba (1)\\Nyobanyoba (1)\\Nyobanyoba\\Nyobanyoba\\View\\Admin\\HomePageAdmin.aspx",
+              "RelativeDocumentMoniker": "Nyobanyoba\\View\\Admin\\HomePageAdmin.aspx",
+              "ToolTip": "C:\\Users\\pf242\\Downloads\\Nyobanyoba (1)\\Nyobanyoba (1)\\Nyobanyoba\\Nyobanyoba\\View\\Admin\\HomePageAdmin.aspx",
+              "RelativeToolTip": "Nyobanyoba\\View\\Admin\\HomePageAdmin.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-09T10:13:47.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "dbo.MsUser [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__MATA_KULIAH_SMT_4_LAB_PSD_DELO_FINAL_NYOBANYOBA_NYOBANYOBA_APP_DATA_DATABASE1.MDF/True/SqlTable/dbo.MsUser.sql",
+              "ToolTip": "dbo.MsUser [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-06-05T07:56:25.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ProfileCustomer.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\pf242\\Downloads\\Nyobanyoba (1)\\Nyobanyoba (1)\\Nyobanyoba\\Nyobanyoba\\View\\Customer\\ProfileCustomer.aspx.cs",
+              "RelativeDocumentMoniker": "Nyobanyoba\\View\\Customer\\ProfileCustomer.aspx.cs",
+              "ToolTip": "C:\\Users\\pf242\\Downloads\\Nyobanyoba (1)\\Nyobanyoba (1)\\Nyobanyoba\\Nyobanyoba\\View\\Customer\\ProfileCustomer.aspx.cs",
+              "RelativeToolTip": "Nyobanyoba\\View\\Customer\\ProfileCustomer.aspx.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAYwDcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T08:19:39.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DataSet1.xsd",
+              "DocumentMoniker": "C:\\Users\\pf242\\Downloads\\Nyobanyoba (1)\\Nyobanyoba (1)\\Nyobanyoba\\Nyobanyoba\\DataSet\\DataSet1.xsd",
+              "RelativeDocumentMoniker": "Nyobanyoba\\DataSet\\DataSet1.xsd",
+              "ToolTip": "C:\\Users\\pf242\\Downloads\\Nyobanyoba (1)\\Nyobanyoba (1)\\Nyobanyoba\\Nyobanyoba\\DataSet\\DataSet1.xsd",
+              "RelativeToolTip": "Nyobanyoba\\DataSet\\DataSet1.xsd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
+              "WhenOpened": "2024-06-10T00:32:18.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\pf242\\Downloads\\Nyobanyoba (1)\\Nyobanyoba (1)\\Nyobanyoba\\Nyobanyoba\\Controller\\UserController.cs",
+              "RelativeDocumentMoniker": "Nyobanyoba\\Controller\\UserController.cs",
+              "ToolTip": "C:\\Users\\pf242\\Downloads\\Nyobanyoba (1)\\Nyobanyoba (1)\\Nyobanyoba\\Nyobanyoba\\Controller\\UserController.cs",
+              "RelativeToolTip": "Nyobanyoba\\Controller\\UserController.cs",
+              "ViewState": "AQIAAHgAAAAAAAAAAAAowI0AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T07:38:27.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UserHandler.cs",
+              "DocumentMoniker": "C:\\Users\\pf242\\Downloads\\Nyobanyoba (1)\\Nyobanyoba (1)\\Nyobanyoba\\Nyobanyoba\\Handler\\UserHandler.cs",
+              "RelativeDocumentMoniker": "Nyobanyoba\\Handler\\UserHandler.cs",
+              "ToolTip": "C:\\Users\\pf242\\Downloads\\Nyobanyoba (1)\\Nyobanyoba (1)\\Nyobanyoba\\Nyobanyoba\\Handler\\UserHandler.cs",
+              "RelativeToolTip": "Nyobanyoba\\Handler\\UserHandler.cs",
+              "ViewState": "AQIAAK4AAAAAAAAAAAAAAKYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T07:37:44.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ProfileCustomer.aspx",
+              "DocumentMoniker": "C:\\Users\\pf242\\Downloads\\Nyobanyoba (1)\\Nyobanyoba (1)\\Nyobanyoba\\Nyobanyoba\\View\\Customer\\ProfileCustomer.aspx",
+              "RelativeDocumentMoniker": "Nyobanyoba\\View\\Customer\\ProfileCustomer.aspx",
+              "ToolTip": "C:\\Users\\pf242\\Downloads\\Nyobanyoba (1)\\Nyobanyoba (1)\\Nyobanyoba\\Nyobanyoba\\View\\Customer\\ProfileCustomer.aspx",
+              "RelativeToolTip": "Nyobanyoba\\View\\Customer\\ProfileCustomer.aspx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-05T08:24:50.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "LoginPage.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\pf242\\Downloads\\Nyobanyoba (1)\\Nyobanyoba (1)\\Nyobanyoba\\Nyobanyoba\\View\\LoginPage.aspx.cs",
+              "RelativeDocumentMoniker": "Nyobanyoba\\View\\LoginPage.aspx.cs",
+              "ToolTip": "C:\\Users\\pf242\\Downloads\\Nyobanyoba (1)\\Nyobanyoba (1)\\Nyobanyoba\\Nyobanyoba\\View\\LoginPage.aspx.cs",
+              "RelativeToolTip": "Nyobanyoba\\View\\LoginPage.aspx.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAAAD8AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T07:38:46.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "NavbarCustomer.Master.cs",
+              "DocumentMoniker": "C:\\Users\\pf242\\Downloads\\Nyobanyoba (1)\\Nyobanyoba (1)\\Nyobanyoba\\Nyobanyoba\\View\\Customer\\NavbarCustomer.Master.cs",
+              "RelativeDocumentMoniker": "Nyobanyoba\\View\\Customer\\NavbarCustomer.Master.cs",
+              "ToolTip": "C:\\Users\\pf242\\Downloads\\Nyobanyoba (1)\\Nyobanyoba (1)\\Nyobanyoba\\Nyobanyoba\\View\\Customer\\NavbarCustomer.Master.cs",
+              "RelativeToolTip": "Nyobanyoba\\View\\Customer\\NavbarCustomer.Master.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwB4AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T12:37:21.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "NavbarCustomer.Master",
+              "DocumentMoniker": "C:\\Users\\pf242\\Downloads\\Nyobanyoba (1)\\Nyobanyoba (1)\\Nyobanyoba\\Nyobanyoba\\View\\Customer\\NavbarCustomer.Master",
+              "RelativeDocumentMoniker": "Nyobanyoba\\View\\Customer\\NavbarCustomer.Master",
+              "ToolTip": "C:\\Users\\pf242\\Downloads\\Nyobanyoba (1)\\Nyobanyoba (1)\\Nyobanyoba\\Nyobanyoba\\View\\Customer\\NavbarCustomer.Master",
+              "RelativeToolTip": "Nyobanyoba\\View\\Customer\\NavbarCustomer.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-09T12:38:45.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "SupplementController.cs",
+              "DocumentMoniker": "C:\\Users\\pf242\\Downloads\\Nyobanyoba (1)\\Nyobanyoba (1)\\Nyobanyoba\\Nyobanyoba\\Controller\\SupplementController.cs",
+              "RelativeDocumentMoniker": "Nyobanyoba\\Controller\\SupplementController.cs",
+              "ToolTip": "C:\\Users\\pf242\\Downloads\\Nyobanyoba (1)\\Nyobanyoba (1)\\Nyobanyoba\\Nyobanyoba\\Controller\\SupplementController.cs",
+              "RelativeToolTip": "Nyobanyoba\\Controller\\SupplementController.cs",
+              "ViewState": "AQIAAFQAAAAAAAAAAAAiwFkAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T09:40:18.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "SupplementHandler.cs",
+              "DocumentMoniker": "C:\\Users\\pf242\\Downloads\\Nyobanyoba (1)\\Nyobanyoba (1)\\Nyobanyoba\\Nyobanyoba\\Handler\\SupplementHandler.cs",
+              "RelativeDocumentMoniker": "Nyobanyoba\\Handler\\SupplementHandler.cs",
+              "ToolTip": "C:\\Users\\pf242\\Downloads\\Nyobanyoba (1)\\Nyobanyoba (1)\\Nyobanyoba\\Nyobanyoba\\Handler\\SupplementHandler.cs",
+              "RelativeToolTip": "Nyobanyoba\\Handler\\SupplementHandler.cs",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T11:07:22.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "SupplementTypeHandler.cs",
+              "DocumentMoniker": "C:\\Users\\pf242\\Downloads\\Nyobanyoba (1)\\Nyobanyoba (1)\\Nyobanyoba\\Nyobanyoba\\Handler\\SupplementTypeHandler.cs",
+              "RelativeDocumentMoniker": "Nyobanyoba\\Handler\\SupplementTypeHandler.cs",
+              "ToolTip": "C:\\Users\\pf242\\Downloads\\Nyobanyoba (1)\\Nyobanyoba (1)\\Nyobanyoba\\Nyobanyoba\\Handler\\SupplementTypeHandler.cs",
+              "RelativeToolTip": "Nyobanyoba\\Handler\\SupplementTypeHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T11:07:21.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "SupplementRepository.cs",
+              "DocumentMoniker": "C:\\Users\\pf242\\Downloads\\Nyobanyoba (1)\\Nyobanyoba (1)\\Nyobanyoba\\Nyobanyoba\\Repository\\SupplementRepository.cs",
+              "RelativeDocumentMoniker": "Nyobanyoba\\Repository\\SupplementRepository.cs",
+              "ToolTip": "C:\\Users\\pf242\\Downloads\\Nyobanyoba (1)\\Nyobanyoba (1)\\Nyobanyoba\\Nyobanyoba\\Repository\\SupplementRepository.cs",
+              "RelativeToolTip": "Nyobanyoba\\Repository\\SupplementRepository.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T11:07:00.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "UpdateSupplementAdmin.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\pf242\\Downloads\\Nyobanyoba (1)\\Nyobanyoba (1)\\Nyobanyoba\\Nyobanyoba\\View\\Admin\\UpdateSupplementAdmin.aspx.cs",
+              "RelativeDocumentMoniker": "Nyobanyoba\\View\\Admin\\UpdateSupplementAdmin.aspx.cs",
+              "ToolTip": "C:\\Users\\pf242\\Downloads\\Nyobanyoba (1)\\Nyobanyoba (1)\\Nyobanyoba\\Nyobanyoba\\View\\Admin\\UpdateSupplementAdmin.aspx.cs",
+              "RelativeToolTip": "Nyobanyoba\\View\\Admin\\UpdateSupplementAdmin.aspx.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAcwEUAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T10:16:32.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ManageSupplementAdmin.aspx",
+              "DocumentMoniker": "C:\\Users\\pf242\\Downloads\\Nyobanyoba (1)\\Nyobanyoba (1)\\Nyobanyoba\\Nyobanyoba\\View\\Admin\\ManageSupplementAdmin.aspx",
+              "RelativeDocumentMoniker": "Nyobanyoba\\View\\Admin\\ManageSupplementAdmin.aspx",
+              "ToolTip": "C:\\Users\\pf242\\Downloads\\Nyobanyoba (1)\\Nyobanyoba (1)\\Nyobanyoba\\Nyobanyoba\\View\\Admin\\ManageSupplementAdmin.aspx",
+              "RelativeToolTip": "Nyobanyoba\\View\\Admin\\ManageSupplementAdmin.aspx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-09T09:48:35.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "InsertSupplementAdmin.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\pf242\\Downloads\\Nyobanyoba (1)\\Nyobanyoba (1)\\Nyobanyoba\\Nyobanyoba\\View\\Admin\\InsertSupplementAdmin.aspx.cs",
+              "RelativeDocumentMoniker": "Nyobanyoba\\View\\Admin\\InsertSupplementAdmin.aspx.cs",
+              "ToolTip": "C:\\Users\\pf242\\Downloads\\Nyobanyoba (1)\\Nyobanyoba (1)\\Nyobanyoba\\Nyobanyoba\\View\\Admin\\InsertSupplementAdmin.aspx.cs",
+              "RelativeToolTip": "Nyobanyoba\\View\\Admin\\InsertSupplementAdmin.aspx.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABoAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T10:10:13.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "UpdateSupplementAdmin.aspx",
+              "DocumentMoniker": "C:\\Users\\pf242\\Downloads\\Nyobanyoba (1)\\Nyobanyoba (1)\\Nyobanyoba\\Nyobanyoba\\View\\Admin\\UpdateSupplementAdmin.aspx",
+              "RelativeDocumentMoniker": "Nyobanyoba\\View\\Admin\\UpdateSupplementAdmin.aspx",
+              "ToolTip": "C:\\Users\\pf242\\Downloads\\Nyobanyoba (1)\\Nyobanyoba (1)\\Nyobanyoba\\Nyobanyoba\\View\\Admin\\UpdateSupplementAdmin.aspx",
+              "RelativeToolTip": "Nyobanyoba\\View\\Admin\\UpdateSupplementAdmin.aspx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-09T10:03:29.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "NavbarAdmin.Master",
+              "DocumentMoniker": "C:\\Users\\pf242\\Downloads\\Nyobanyoba (1)\\Nyobanyoba (1)\\Nyobanyoba\\Nyobanyoba\\View\\Admin\\NavbarAdmin.Master",
+              "RelativeDocumentMoniker": "Nyobanyoba\\View\\Admin\\NavbarAdmin.Master",
+              "ToolTip": "C:\\Users\\pf242\\Downloads\\Nyobanyoba (1)\\Nyobanyoba (1)\\Nyobanyoba\\Nyobanyoba\\View\\Admin\\NavbarAdmin.Master",
+              "RelativeToolTip": "Nyobanyoba\\View\\Admin\\NavbarAdmin.Master",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-09T10:03:51.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "NavbarAdmin.Master.cs",
+              "DocumentMoniker": "C:\\Users\\pf242\\Downloads\\Nyobanyoba (1)\\Nyobanyoba (1)\\Nyobanyoba\\Nyobanyoba\\View\\Admin\\NavbarAdmin.Master.cs",
+              "RelativeDocumentMoniker": "Nyobanyoba\\View\\Admin\\NavbarAdmin.Master.cs",
+              "ToolTip": "C:\\Users\\pf242\\Downloads\\Nyobanyoba (1)\\Nyobanyoba (1)\\Nyobanyoba\\Nyobanyoba\\View\\Admin\\NavbarAdmin.Master.cs",
+              "RelativeToolTip": "Nyobanyoba\\View\\Admin\\NavbarAdmin.Master.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAADwvygAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T10:03:53.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ManageSupplementAdmin.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\pf242\\Downloads\\Nyobanyoba (1)\\Nyobanyoba (1)\\Nyobanyoba\\Nyobanyoba\\View\\Admin\\ManageSupplementAdmin.aspx.cs",
+              "RelativeDocumentMoniker": "Nyobanyoba\\View\\Admin\\ManageSupplementAdmin.aspx.cs",
+              "ToolTip": "C:\\Users\\pf242\\Downloads\\Nyobanyoba (1)\\Nyobanyoba (1)\\Nyobanyoba\\Nyobanyoba\\View\\Admin\\ManageSupplementAdmin.aspx.cs",
+              "RelativeToolTip": "Nyobanyoba\\View\\Admin\\ManageSupplementAdmin.aspx.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABkAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T09:48:43.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "InsertSupplementAdmin.aspx",
+              "DocumentMoniker": "C:\\Users\\pf242\\Downloads\\Nyobanyoba (1)\\Nyobanyoba (1)\\Nyobanyoba\\Nyobanyoba\\View\\Admin\\InsertSupplementAdmin.aspx",
+              "RelativeDocumentMoniker": "Nyobanyoba\\View\\Admin\\InsertSupplementAdmin.aspx",
+              "ToolTip": "C:\\Users\\pf242\\Downloads\\Nyobanyoba (1)\\Nyobanyoba (1)\\Nyobanyoba\\Nyobanyoba\\View\\Admin\\InsertSupplementAdmin.aspx",
+              "RelativeToolTip": "Nyobanyoba\\View\\Admin\\InsertSupplementAdmin.aspx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-09T09:25:17.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "RegisterPage.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\pf242\\Downloads\\Nyobanyoba (1)\\Nyobanyoba (1)\\Nyobanyoba\\Nyobanyoba\\View\\RegisterPage.aspx.cs",
+              "RelativeDocumentMoniker": "Nyobanyoba\\View\\RegisterPage.aspx.cs",
+              "ToolTip": "C:\\Users\\pf242\\Downloads\\Nyobanyoba (1)\\Nyobanyoba (1)\\Nyobanyoba\\Nyobanyoba\\View\\RegisterPage.aspx.cs",
+              "RelativeToolTip": "Nyobanyoba\\View\\RegisterPage.aspx.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAuwC4AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T07:45:54.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "UserFactory.cs",
+              "DocumentMoniker": "C:\\Users\\pf242\\Downloads\\Nyobanyoba (1)\\Nyobanyoba (1)\\Nyobanyoba\\Nyobanyoba\\Factory\\UserFactory.cs",
+              "RelativeDocumentMoniker": "Nyobanyoba\\Factory\\UserFactory.cs",
+              "ToolTip": "C:\\Users\\pf242\\Downloads\\Nyobanyoba (1)\\Nyobanyoba (1)\\Nyobanyoba\\Nyobanyoba\\Factory\\UserFactory.cs",
+              "RelativeToolTip": "Nyobanyoba\\Factory\\UserFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T07:42:41.799Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
